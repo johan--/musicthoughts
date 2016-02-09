@@ -69,11 +69,9 @@ end
 	# file-writing shortcut used everywhere below
 	f = file_writer('site/' + lang)
 
-	# get all approved thoughts & random thoughts.  write json
 	ok, approved_thoughts = db.call('approved_thoughts', lang)
-	f.call('thoughts.json', approved_thoughts.to_json)
-
 	ok, random_thoughts = db.call('random_thoughts', lang)
+
 	f.call('random.json', random_thoughts.to_json)
 
 	# vars for all templates
