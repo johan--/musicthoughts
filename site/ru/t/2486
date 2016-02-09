@@ -29,7 +29,7 @@
 	<li><a href="/new">новое</a></li>
 	<li><a href="/authors">авторы</a></li>
 	<li><a href="/contributors">контрибьюторы</a></li>
-	<li><a href="/t/567">случайное высказывание</a></li>
+	<li><a href="/t/2359">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -60,9 +60,9 @@
 </ul>
 </nav>
 
-<blockquote cite="/t/99">
-	<q>Глубокое убеждение очень полезно для других дюдей.</q>
-	<cite><a href="/t/99">Brian Eno</a></cite>
+<blockquote cite="/t/60">
+	<q>Джон Кейдж заставил вас поверить в то, шума как такового никогда не существовало, это была просто музыка, которую вы не оценили.</q>
+	<cite><a href="/t/60">Brian Eno</a></cite>
 </blockquote>
 
 

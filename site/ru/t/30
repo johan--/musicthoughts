@@ -29,7 +29,7 @@
 	<li><a href="/new">новое</a></li>
 	<li><a href="/authors">авторы</a></li>
 	<li><a href="/contributors">контрибьюторы</a></li>
-	<li><a href="/t/33">случайное высказывание</a></li>
+	<li><a href="/t/12">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -60,9 +60,9 @@
 </ul>
 </nav>
 
-<blockquote cite="/t/99">
-	<q>Глубокое убеждение очень полезно для других дюдей.</q>
-	<cite><a href="/t/99">Brian Eno</a></cite>
+<blockquote cite="/t/262">
+	<q>Мечтать стать рок-звездой гораздо веселее, чем постоянно работать над тем, чтобы стать ею.</q>
+	<cite><a href="/t/262">David Hooper</a></cite>
 </blockquote>
 
 

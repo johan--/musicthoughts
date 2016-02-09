@@ -29,7 +29,7 @@
 	<li><a href="/new">новое</a></li>
 	<li><a href="/authors">авторы</a></li>
 	<li><a href="/contributors">контрибьюторы</a></li>
-	<li><a href="/t/2275">случайное высказывание</a></li>
+	<li><a href="/t/4">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -60,9 +60,9 @@
 </ul>
 </nav>
 
-<blockquote cite="/t/314">
-	<q>Только посредственности всегда чувствуют себя на высоте.</q>
-	<cite><a href="/t/314">Jean Giraudoux</a></cite>
+<blockquote cite="/t/498">
+	<q>Компьютеры не панацея, они просто могут дать ответ на ваш вопрос.</q>
+	<cite><a href="/t/498">Pablo Picasso</a></cite>
 </blockquote>
 
 

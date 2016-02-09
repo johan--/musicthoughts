@@ -29,7 +29,7 @@
 	<li><a href="/new">new</a></li>
 	<li><a href="/authors">authors</a></li>
 	<li><a href="/contributors">contributors</a></li>
-	<li><a href="/t/203">random thought</a></li>
+	<li><a href="/t/42">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -1759,9 +1759,9 @@
 </ul>
 </nav>
 
-<blockquote cite="/t/2345">
-	<q>Either write things worth reading, or do things worth the writing.</q>
-	<cite><a href="/t/2345">Benjamin Franklin</a></cite>
+<blockquote cite="/t/174">
+	<q>I saw Bob Dylan getting criticized in Australia by this guy who was saying, &quot;Your new songs aren&#39;t as relevant as your old songs.&quot; <br> <br>And Dylan just said, &quot;Well, I&#39;m out here writing songs - what are you doing?&quot;</q>
+	<cite><a href="/t/174">Bob Dylan</a></cite>
 </blockquote>
 
 

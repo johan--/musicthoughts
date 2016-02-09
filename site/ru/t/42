@@ -29,7 +29,7 @@
 	<li><a href="/new">новое</a></li>
 	<li><a href="/authors">авторы</a></li>
 	<li><a href="/contributors">контрибьюторы</a></li>
-	<li><a href="/t/666">случайное высказывание</a></li>
+	<li><a href="/t/2307">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -60,9 +60,9 @@
 </ul>
 </nav>
 
-<blockquote cite="/t/2307">
-	<q>Самые страшные моменты при сочинительстве музыки - только перед началом.</q>
-	<cite><a href="/t/2307">Stephen King</a></cite>
+<blockquote cite="/t/42">
+	<q>Пробуй снова, терпи неудачу снова, учись терпеть неудачу.</q>
+	<cite><a href="/t/42">Samuel Becket</a></cite>
 </blockquote>
 
 

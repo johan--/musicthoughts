@@ -94,6 +94,13 @@ end
 	@rel_alternate = alternates(lang, '')
 	f.call('home', page('home'))
 
+	# write search
+	@pagetitle = @t.search + ' ' + @t.musicthoughts
+	@rel_alternate = alternates(lang, 'search')
+	@site2search = (lang == 'en') ? '' : "#{lang}."
+	@site2search << 'musicthoughts.com'
+	f.call('search', page('search'))
+
 	# write new
 	@pagetitle = @t.new + ' ' + @t.musicthoughts
 	@rel_alternate = alternates(lang, 'new')

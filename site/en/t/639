@@ -29,7 +29,7 @@
 	<li><a href="/new">new</a></li>
 	<li><a href="/authors">authors</a></li>
 	<li><a href="/contributors">contributors</a></li>
-	<li><a href="/t/412">random thought</a></li>
+	<li><a href="/t/2345">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -60,9 +60,9 @@
 </ul>
 </nav>
 
-<blockquote cite="/t/256">
-	<q>If a man gets up in the morning, goes to bed at night, and does what he pleases inbetween, he&#39;s a success.</q>
-	<cite><a href="/t/256">Bob Dylan</a></cite>
+<blockquote cite="/t/343">
+	<q>As I get more involved and more advanced as a musician, I see that everything I do has the potential to be music and vice versa.</q>
+	<cite><a href="/t/343">Pat Metheny</a></cite>
 </blockquote>
 
 

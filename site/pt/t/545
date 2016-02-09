@@ -29,7 +29,7 @@
 	<li><a href="/new">novo</a></li>
 	<li><a href="/authors">autores</a></li>
 	<li><a href="/contributors">colaboradores</a></li>
-	<li><a href="/t/33">pensamento ao acaso</a></li>
+	<li><a href="/t/2345">pensamento ao acaso</a></li>
 	<li><a href="/search">Procurar</a></li>
 </ul>
 </nav>
@@ -60,9 +60,9 @@
 </ul>
 </nav>
 
-<blockquote cite="/t/47">
-	<q>Os admiradores podem ser uma tremenda força de conservadorismo.</q>
-	<cite><a href="/t/47">Brian Eno</a></cite>
+<blockquote cite="/t/316">
+	<q>A tecnologia não deve sobrepesar na nossa humanidade.</q>
+	<cite><a href="/t/316">Albert Einstein</a></cite>
 </blockquote>
 
 

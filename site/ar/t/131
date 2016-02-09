@@ -29,7 +29,7 @@
 	<li><a href="/new">جديد</a></li>
 	<li><a href="/authors">القائلون</a></li>
 	<li><a href="/contributors">المساهمون</a></li>
-	<li><a href="/t/663">فكرة عشوائية</a></li>
+	<li><a href="/t/2429">فكرة عشوائية</a></li>
 	<li><a href="/search">بحث</a></li>
 </ul>
 </nav>
@@ -60,9 +60,9 @@
 </ul>
 </nav>
 
-<blockquote cite="/t/2345">
-	<q>اكتب ما يستحق القراءة، أو افعل ما يستحق الكتابة.</q>
-	<cite><a href="/t/2345">Benjamin Franklin</a></cite>
+<blockquote cite="/t/57">
+	<q>كل زيادة في معرفتك هي نقصان متزامن. أنت تتعلم ولا تتعلم بنفس الوقت. التأكد الجديد هو شك جديد أيضاً.</q>
+	<cite><a href="/t/57">Brian Eno</a></cite>
 </blockquote>
 
 

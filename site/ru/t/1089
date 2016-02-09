@@ -29,7 +29,7 @@
 	<li><a href="/new">новое</a></li>
 	<li><a href="/authors">авторы</a></li>
 	<li><a href="/contributors">контрибьюторы</a></li>
-	<li><a href="/t/160">случайное высказывание</a></li>
+	<li><a href="/t/6">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -60,9 +60,9 @@
 </ul>
 </nav>
 
-<blockquote cite="/t/319">
-	<q>Паузы очень важны. Паузы между нотами важны так же, как и сами ноты.</q>
-	<cite><a href="/t/319">Wolfgang Amadeus Mozart</a></cite>
+<blockquote cite="/t/133">
+	<q>Слава хороша как побочный продукт, а не самоцель.</q>
+	<cite><a href="/t/133">Connor Freff Cochran</a></cite>
 </blockquote>
 
 
