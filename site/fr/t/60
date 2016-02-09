@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/164">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/256">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/60">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/445">
+	<q>Quiconque forme un groupe, écrit des chansons et produit des disques puis dit qu&#39;il se fout que les gens l&#39;aiment ou pas est menteur.</q>
+	<cite><a href="/t/445">James Dean Bradfield</a></cite>
+</blockquote>
 
 
 </footer>

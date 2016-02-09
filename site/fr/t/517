@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/208">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/2595">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/517">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/42">
+	<q>Essayez encore, échouez encore, échouez mieux.</q>
+	<cite><a href="/t/42">Samuel Becket</a></cite>
+</blockquote>
 
 
 </footer>

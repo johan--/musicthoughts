@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">новое</a></li>
-	<li><a href="/author">авторы</a></li>
-	<li><a href="/contributor">контрибьюторы</a></li>
-	<li><a href="/t/546">случайное высказывание</a></li>
+	<li><a href="/authors">авторы</a></li>
+	<li><a href="/contributors">контрибьюторы</a></li>
+	<li><a href="/t/273">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/343">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/2429">
+	<q>Искусство - это не то, что Вы видите, а то, что Вы заставляете видеть других.</q>
+	<cite><a href="/t/2429">Edgar Degas</a></cite>
+</blockquote>
 
 
 </footer>

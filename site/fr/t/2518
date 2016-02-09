@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/619">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/197">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2518">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/501">
+	<q>Il n&#39;est pas juste de réprimander le roman d&#39;être satisfait de coïncidences mystérieuses, mais il est juste de réprimander l&#39;homme de s&#39;aveugler à ces coïncidences dans sa vie de tous les jours. Car il se prive ainsi d&#39;une dimension de beauté.</q>
+	<cite><a href="/t/501">Milan Kundera</a></cite>
+</blockquote>
 
 
 </footer>

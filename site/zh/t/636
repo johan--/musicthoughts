@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/140">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/159">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/636">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/173">
+	<q>對我個人來說，我想唯一要注意的一點就是太熱愛彈吉他。<br><br>『音樂』才是最重要的，吉他只不過是為達目的一個工具罷了。</q>
+	<cite><a href="/t/173">Jerry Garcia</a></cite>
+</blockquote>
 
 
 </footer>

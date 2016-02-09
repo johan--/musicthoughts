@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">جديد</a></li>
-	<li><a href="/author">القائلون</a></li>
-	<li><a href="/contributor">المساهمون</a></li>
-	<li><a href="/t/659">فكرة عشوائية</a></li>
+	<li><a href="/authors">القائلون</a></li>
+	<li><a href="/contributors">المساهمون</a></li>
+	<li><a href="/t/466">فكرة عشوائية</a></li>
 	<li><a href="/search">بحث</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/27">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/513">
+	<q>أنا لا أعرف شيئاً عن الموسيقى. في مجالي، أنت لست مضطراً لذلك.</q>
+	<cite><a href="/t/513">Elvis Presley</a></cite>
+</blockquote>
 
 
 </footer>

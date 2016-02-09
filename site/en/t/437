@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/203">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/205">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/437">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/208">
+	<q>It doesn&#39;t matter if you&#39;re the greatest guitar player in the world.  If you&#39;re not enlightened, forget it.</q>
+	<cite><a href="/t/208">George Harrison</a></cite>
+</blockquote>
 
 
 </footer>

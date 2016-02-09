@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuevo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/2282">pensamiento al azar</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/175">pensamiento al azar</a></li>
 	<li><a href="/search">buscar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/530">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/636">
+	<q>Lo que funcionó antes nunca es tan bueno como algo que nunca se ha probado, aunque no funcione.</q>
+	<cite><a href="/t/636">Jimmy Webb</a></cite>
+</blockquote>
 
 
 </footer>

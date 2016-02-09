@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/458">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/665">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/1989">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/1995">
+	<q>Un bon artiste entre sur scène, regarde l&#39;assistance, et se dit, &quot;Me voici!&quot;<br><br>Un grand artiste entre sur scène, regarde l&#39;assistance, et se dit, &quot;Vous voilà!&quot;</q>
+	<cite><a href="/t/1995">Steve Rapson</a></cite>
+</blockquote>
 
 
 </footer>

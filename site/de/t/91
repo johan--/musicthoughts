@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">neu</a></li>
-	<li><a href="/author">Autoren</a></li>
-	<li><a href="/contributor">Mitwirkende</a></li>
-	<li><a href="/t/498">Zufälliger Gedanke</a></li>
+	<li><a href="/authors">Autoren</a></li>
+	<li><a href="/contributors">Mitwirkende</a></li>
+	<li><a href="/t/6">Zufälliger Gedanke</a></li>
 	<li><a href="/search">Suche</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/91">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/399">
+	<q>Ein Zuhörerschaft ist wie eine Dame. Wenn es nicht aufrichtig ist, ist es vorbei.</q>
+	<cite><a href="/t/399">Frank Sinatra</a></cite>
+</blockquote>
 
 
 </footer>

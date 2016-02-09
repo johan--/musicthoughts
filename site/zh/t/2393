@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/33">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/495">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/2393">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/57">
+	<q>當你的知識每增進一點也會相對的減少一滴。學習與忘掉已學過的知識，去掉惡習，得新棄舊是同時在進行的。一個新的肯定，也同時是一份新的疑慮。</q>
+	<cite><a href="/t/57">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

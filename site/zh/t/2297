@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/2275">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/511">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/2297">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/233">
+	<q>如果你沒能殺到他們爽(讓他們讚不絕口，如橫掃千軍般地讓他們全部對你佩服的五體投地)，或許你的尖頭刺端(重點，想傳達的訊息與意義)不夠尖銳鋒利。</q>
+	<cite><a href="/t/233">Kevin Welch</a></cite>
+</blockquote>
 
 
 </footer>

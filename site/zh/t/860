@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/636">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/2392">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/860">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/1995">
+	<q>一个不错的表演者跳上舞台，望着观众，心想，”我在这儿啦！”<br>一个优秀的表演者跳上舞台，望着观众，心想，”你们在这儿啦！”</q>
+	<cite><a href="/t/1995">Steve Rapson</a></cite>
+</blockquote>
 
 
 </footer>

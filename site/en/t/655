@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/2418">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/66">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/655">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/479">
+	<q>It&#39;s quite ironic: We got rid of our analog equipment, replaced it with digital, then spent the next couple of decades trying to get the digital to sound like the analog we got rid of.</q>
+	<cite><a href="/t/479">David Williams</a></cite>
+</blockquote>
 
 
 </footer>

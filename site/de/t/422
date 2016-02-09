@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">neu</a></li>
-	<li><a href="/author">Autoren</a></li>
-	<li><a href="/contributor">Mitwirkende</a></li>
-	<li><a href="/t/119">Zufälliger Gedanke</a></li>
+	<li><a href="/authors">Autoren</a></li>
+	<li><a href="/contributors">Mitwirkende</a></li>
+	<li><a href="/t/1888">Zufälliger Gedanke</a></li>
 	<li><a href="/search">Suche</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/422">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/404">
+	<q>Mehr als drei Akkorde ist Angeberei.</q>
+	<cite><a href="/t/404">Woody Guthrie</a></cite>
+</blockquote>
 
 
 </footer>

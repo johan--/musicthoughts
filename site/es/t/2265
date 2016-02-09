@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuevo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/528">pensamiento al azar</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/273">pensamiento al azar</a></li>
 	<li><a href="/search">buscar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2265">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/214">
+	<q>John Lennon siempre andaba en busca de lo imposible, de lo inalcanzable. Nunca estaba satisfecho. <br><br>Una vez, después de muchos años, me dijo, “Sabes, George, en realidad nunca me ha gustado nada de lo que hicimos.” Yo le pregunté, “¿En serio, John? ¡Pero si hiciste discos fantásticos” Y él respondió, “Mira, si los pudiera hacer todos de nuevo, lo haría.”</q>
+	<cite><a href="/t/214">George Martin</a></cite>
+</blockquote>
 
 
 </footer>

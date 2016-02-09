@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">новое</a></li>
-	<li><a href="/author">авторы</a></li>
-	<li><a href="/contributor">контрибьюторы</a></li>
-	<li><a href="/t/160">случайное высказывание</a></li>
+	<li><a href="/authors">авторы</a></li>
+	<li><a href="/contributors">контрибьюторы</a></li>
+	<li><a href="/t/408">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/1987">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/2353">
+	<q>Мир расчищает путь тому, кто знает, куда он идет.</q>
+	<cite><a href="/t/2353">Ralph Waldo Emerson</a></cite>
+</blockquote>
 
 
 </footer>

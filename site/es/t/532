@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuevo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/76">pensamiento al azar</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/357">pensamiento al azar</a></li>
 	<li><a href="/search">buscar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/532">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/659">
+	<q>Una pintura nunca está terminada. Simplemente se detiene en lugares interesantes.</q>
+	<cite><a href="/t/659">Paul Gardener</a></cite>
+</blockquote>
 
 
 </footer>

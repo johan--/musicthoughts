@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/447">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/203">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/342">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/447">
+	<q>這個行業裡最困難不過的事情，就是自己組創一個誰也沒有聽過的樂團。</q>
+	<cite><a href="/t/447">Tom Whalley, Interscope Records</a></cite>
+</blockquote>
 
 
 </footer>

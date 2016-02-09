@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/175">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/521">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/164">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/497">
+	<q>Vole un peu, et on te met en prison. Vole beaucoup, et on te fait roi.</q>
+	<cite><a href="/t/497">Bob Dylan</a></cite>
+</blockquote>
 
 
 </footer>

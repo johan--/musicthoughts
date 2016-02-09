@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuovo</a></li>
-	<li><a href="/author">autori</a></li>
-	<li><a href="/contributor">contributori</a></li>
-	<li><a href="/t/75">pensiero a caso</a></li>
+	<li><a href="/authors">autori</a></li>
+	<li><a href="/contributors">contributori</a></li>
+	<li><a href="/t/1888">pensiero a caso</a></li>
 	<li><a href="/search">ricerca</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/3098">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/169">
+	<q>Se ti appresti a spazzare il pavimento, cerca di farlo meglio di chiunque altro in cittá. E se ti appresti a suonare la chitarra, prendi la cosa molto, molto, molto sul serio, e non raccontare balle.</q>
+	<cite><a href="/t/169">Carlos Santana</a></cite>
+</blockquote>
 
 
 </footer>

@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/95">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/671">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/603">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/2236">
+	<q>有些人成功是由于命中注定，但大多数能成功的人是因为他们想要成功的决心。</q>
+	<cite><a href="/t/2236">Henry Dyke</a></cite>
+</blockquote>
 
 
 </footer>

@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/2307">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/638">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/327">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/100">
+	<q>When people censor themselves they&#39;re just as likely to get rid of the good bits as the bad bits.</q>
+	<cite><a href="/t/100">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

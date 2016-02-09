@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/204">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/2430">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/45">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/95">
+	<q>What you really want to be doing is to be writing lyrics that are outside of your own understanding.  <br> <br>They feel like this is what you want to be singing. But you don&#39;t know why.</q>
+	<cite><a href="/t/95">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

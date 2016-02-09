@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/203">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/345">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/280">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/665">
+	<q>Ah, le bon goût! Quelle horreur. Le goût est l&#39;ennemi de la créativité.</q>
+	<cite><a href="/t/665">Pablo Picasso</a></cite>
+</blockquote>
 
 
 </footer>

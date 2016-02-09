@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/159">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/2008">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/357">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/88">
+	<q>一張唱片應該描繪一幅你現下身處的地方呢，還是該描繪所有你現在可能置身的地方呢?<br><br>(譯註：音樂帶給人的感覺該是現實黯淡的感覺，還是同樣真正可能實現的希望之光呢?)</q>
+	<cite><a href="/t/88">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

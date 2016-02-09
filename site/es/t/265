@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuevo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/619">pensamiento al azar</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/160">pensamiento al azar</a></li>
 	<li><a href="/search">buscar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/265">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/2307">
+	<q>El momento más aterrador de la escritura es justo antes de empezar.</q>
+	<cite><a href="/t/2307">Stephen King</a></cite>
+</blockquote>
 
 
 </footer>

@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuovo</a></li>
-	<li><a href="/author">autori</a></li>
-	<li><a href="/contributor">contributori</a></li>
-	<li><a href="/t/174">pensiero a caso</a></li>
+	<li><a href="/authors">autori</a></li>
+	<li><a href="/contributors">contributori</a></li>
+	<li><a href="/t/498">pensiero a caso</a></li>
 	<li><a href="/search">ricerca</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/458">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/605">
+	<q>Se qualcuno dice che non è possibile, questo ti fa capire cosa devi fare.</q>
+	<cite><a href="/t/605">John Cage</a></cite>
+</blockquote>
 
 
 </footer>

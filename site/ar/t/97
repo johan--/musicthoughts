@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">جديد</a></li>
-	<li><a href="/author">القائلون</a></li>
-	<li><a href="/contributor">المساهمون</a></li>
-	<li><a href="/t/204">فكرة عشوائية</a></li>
+	<li><a href="/authors">القائلون</a></li>
+	<li><a href="/contributors">المساهمون</a></li>
+	<li><a href="/t/289">فكرة عشوائية</a></li>
 	<li><a href="/search">بحث</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/97">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/213">
+	<q>الناس الذين يعملون في قسم اكتشاف المواهب لا يفهمون شيئاً. إن كانوا يفهمون مجال الأعمال الفنية لكانوا أصبحوا مليونيرات، أليس كذلك؟</q>
+	<cite><a href="/t/213">Mickie Most</a></cite>
+</blockquote>
 
 
 </footer>

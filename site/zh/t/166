@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/83">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/671">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/166">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/338">
+	<q>腦袋就像嬰兒尿布一樣。<br><br>每久久一定要定期換一次，不然它會開始發臭。</q>
+	<cite><a href="/t/338">Jeff Kauppi</a></cite>
+</blockquote>
 
 
 </footer>

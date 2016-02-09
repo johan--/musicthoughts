@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuevo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/539">pensamiento al azar</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/66">pensamiento al azar</a></li>
 	<li><a href="/search">buscar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/316">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/2355">
+	<q>Antes que nada, pregúntate a ti mismo, ¨¿Qué quiero que suceda?¨</q>
+	<cite><a href="/t/2355">James Lee Stanley</a></cite>
+</blockquote>
 
 
 </footer>

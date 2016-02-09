@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/507">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/189">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2428">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/33">
+	<q>C&#39;est l&#39;acte même de se &quot;concentrer&quot; sur la composition qui la rend difficile, car les idées ne viennent pas normalement alors qu&#39;on focalise, mais quand on est plutôt &quot;ouvert&quot;.</q>
+	<cite><a href="/t/33">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

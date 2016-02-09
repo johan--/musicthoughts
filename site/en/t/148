@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/2474">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/458">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/148">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/458">
+	<q>If the milk industry can make their product seem sexy and increase consumer demand, there must be hope for music.</q>
+	<cite><a href="/t/458">Gary Arnold, Merchandising Manager, Best Buy</a></cite>
+</blockquote>
 
 
 </footer>

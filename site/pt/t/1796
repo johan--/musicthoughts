@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">novo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/445">pensamento ao acaso</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/297">pensamento ao acaso</a></li>
 	<li><a href="/search">Procurar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/1796">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/213">
+	<q>As pessoas que trabalham em A&amp;R não fazem ideia. Se elas soubessem o que se passa, estariam todas milionárias, não estariam?</q>
+	<cite><a href="/t/213">Mickie Most</a></cite>
+</blockquote>
 
 
 </footer>

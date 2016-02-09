@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">novo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/44">pensamento ao acaso</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/273">pensamento ao acaso</a></li>
 	<li><a href="/search">Procurar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2573">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/516">
+	<q>A informação não é conhecimento. O conhecimento não é sabedoria. A sabedoria não é a verdade. A verdade não é a beleza. A beleza não é amor. O amor não é a música. A música é o melhor.</q>
+	<cite><a href="/t/516">Frank Zappa</a></cite>
+</blockquote>
 
 
 </footer>

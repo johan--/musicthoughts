@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/262">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/605">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2562">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/659">
+	<q>Un tableau n&#39;est jamais fini. Il s&#39;arrête tout simplement à des endroits intéressants.</q>
+	<cite><a href="/t/659">Paul Gardener</a></cite>
+</blockquote>
 
 
 </footer>

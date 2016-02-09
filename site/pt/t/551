@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">novo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/1705">pensamento ao acaso</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/2295">pensamento ao acaso</a></li>
 	<li><a href="/search">Procurar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/551">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/94">
+	<q>Alguém disse recentemente numa entrevista, &quot;O que é que as letras querem dizer?&quot;<br>E eu disse &quot;O que é que os acordes querem dizer?&quot;</q>
+	<cite><a href="/t/94">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

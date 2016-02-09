@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">новое</a></li>
-	<li><a href="/author">авторы</a></li>
-	<li><a href="/contributor">контрибьюторы</a></li>
-	<li><a href="/t/75">случайное высказывание</a></li>
+	<li><a href="/authors">авторы</a></li>
+	<li><a href="/contributors">контрибьюторы</a></li>
+	<li><a href="/t/49">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -3928,6 +3928,11 @@
 	<li><a href="http://zh.musicthoughts.com/new">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/51">
+	<q>Как только ты воплощаешь свою идею, ты видишь те ее грани, которые не были ясны, пока она просто  бродила в твоей голове.</q>
+	<cite><a href="/t/51">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/458">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/213">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/158">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/287">
+	<q>Lyrics run out after the melody like children after an ice cream truck.</q>
+	<cite><a href="/t/287">Danielle Egnew</a></cite>
+</blockquote>
 
 
 </footer>

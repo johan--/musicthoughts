@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">جديد</a></li>
-	<li><a href="/author">القائلون</a></li>
-	<li><a href="/contributor">المساهمون</a></li>
-	<li><a href="/t/189">فكرة عشوائية</a></li>
+	<li><a href="/authors">القائلون</a></li>
+	<li><a href="/contributors">المساهمون</a></li>
+	<li><a href="/t/197">فكرة عشوائية</a></li>
 	<li><a href="/search">بحث</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2749">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/2474">
+	<q>لا ينتهي الفن أبدا، بل يُهجر.</q>
+	<cite><a href="/t/2474">Leonardo da Vinci</a></cite>
+</blockquote>
 
 
 </footer>

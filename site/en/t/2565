@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/2429">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/392">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2565">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/374">
+	<q>Don&#39;t confuse being busy with being productive. <br> <br>Just because you&#39;re busy all the time doesn&#39;t mean you&#39;re getting closer to your goals.</q>
+	<cite><a href="/t/374">Karen McKenna</a></cite>
+</blockquote>
 
 
 </footer>

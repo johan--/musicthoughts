@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/2436">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/539">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/12">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/102">
+	<q>What matters in modern music is not the part you can write down, the words and the tune, but the rest - the texture, the atmosphere, the references and associations.</q>
+	<cite><a href="/t/102">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

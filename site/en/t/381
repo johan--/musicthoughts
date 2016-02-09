@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/513">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/2271">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/381">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/415">
+	<q>The best chance you have, if you want to rise, is to give yourself up to loneliness, fear nothing, and work hard.</q>
+	<cite><a href="/t/415">Mark Helprin</a></cite>
+</blockquote>
 
 
 </footer>

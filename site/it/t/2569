@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuovo</a></li>
-	<li><a href="/author">autori</a></li>
-	<li><a href="/contributor">contributori</a></li>
-	<li><a href="/t/118">pensiero a caso</a></li>
+	<li><a href="/authors">autori</a></li>
+	<li><a href="/contributors">contributori</a></li>
+	<li><a href="/t/66">pensiero a caso</a></li>
 	<li><a href="/search">ricerca</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2569">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/173">
+	<q>A mio parere, credo che l&#39;unico rischio è innamorarsi troppo di suonare con la chitarra. La MUSICA costituisce la cosa piú importante, e la chitarra è solo lo strumento.</q>
+	<cite><a href="/t/173">Jerry Garcia</a></cite>
+</blockquote>
 
 
 </footer>

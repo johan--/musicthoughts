@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuovo</a></li>
-	<li><a href="/author">autori</a></li>
-	<li><a href="/contributor">contributori</a></li>
-	<li><a href="/t/2638">pensiero a caso</a></li>
+	<li><a href="/authors">autori</a></li>
+	<li><a href="/contributors">contributori</a></li>
+	<li><a href="/t/231">pensiero a caso</a></li>
 	<li><a href="/search">ricerca</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/150">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/445">
+	<q>Chiunque formi un gruppo, scriva canzoni e distribuisca dischi ed affermi di non curarsi se alla gente piacciano, è un assoluto bugiardo.</q>
+	<cite><a href="/t/445">James Dean Bradfield</a></cite>
+</blockquote>
 
 
 </footer>

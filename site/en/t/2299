@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/174">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/100">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2299">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/33">
+	<q>It is the very act of &quot;concentrating&quot; on writing music which makes it difficult to do, since ideas normally arise when one is not focused but when one is &quot;open&quot; in some way.</q>
+	<cite><a href="/t/33">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuovo</a></li>
-	<li><a href="/author">autori</a></li>
-	<li><a href="/contributor">contributori</a></li>
-	<li><a href="/t/483">pensiero a caso</a></li>
+	<li><a href="/authors">autori</a></li>
+	<li><a href="/contributors">contributori</a></li>
+	<li><a href="/t/75">pensiero a caso</a></li>
 	<li><a href="/search">ricerca</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/560">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/83">
+	<q>Piú tempo passi su una vecchia idea, piú energia investi su di essa, piú solida diventa, e piú tutto questo escluderá la creazione di nuove idee.</q>
+	<cite><a href="/t/83">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

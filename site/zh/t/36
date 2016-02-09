@@ -29,9 +29,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/2595">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/2393">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -61,6 +61,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/36">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/286">
+	<q>熟能生巧(是沒錯)。但臨機應變(才)能創造出(真正的)藝術。</q>
+	<cite><a href="/t/286">Danielle Egnew</a></cite>
+</blockquote>
 
 
 </footer>

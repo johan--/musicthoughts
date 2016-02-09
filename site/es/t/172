@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuevo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/190">pensamiento al azar</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/203">pensamiento al azar</a></li>
 	<li><a href="/search">buscar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/172">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/2008">
+	<q>No quieres simplemente que te consideren el mejor de los mejores. Quieres que te consideren el único que hace lo que tú haces.</q>
+	<cite><a href="/t/2008">Jerry Garcia</a></cite>
+</blockquote>
 
 
 </footer>

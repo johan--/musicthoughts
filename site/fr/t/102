@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/1858">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/125">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/102">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/2428">
+	<q>L&#39;art ne devrait jamais essayer d&#39;être populaire. Le public devrait essayer d&#39;être artistique.</q>
+	<cite><a href="/t/2428">Oscar Wilde</a></cite>
+</blockquote>
 
 
 </footer>

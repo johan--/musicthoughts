@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/2236">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/263">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/1649">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/287">
+	<q>Les paroles courent après l&#39;air comme les enfants courent après le camion à glaces.</q>
+	<cite><a href="/t/287">Danielle Egnew</a></cite>
+</blockquote>
 
 
 </footer>

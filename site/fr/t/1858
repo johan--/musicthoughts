@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/2428">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/190">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/1858">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/2280">
+	<q>Si tu apprends la musique, tu apprendra presque tout ce qui vaut être connu.</q>
+	<cite><a href="/t/2280">Edgar Cayce</a></cite>
+</blockquote>
 
 
 </footer>

@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">جديد</a></li>
-	<li><a href="/author">القائلون</a></li>
-	<li><a href="/contributor">المساهمون</a></li>
-	<li><a href="/t/289">فكرة عشوائية</a></li>
+	<li><a href="/authors">القائلون</a></li>
+	<li><a href="/contributors">المساهمون</a></li>
+	<li><a href="/t/2518">فكرة عشوائية</a></li>
 	<li><a href="/search">بحث</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/183">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/497">
+	<q>إن سرقت قليلاً يضعونك في السجن، لكن إن سرقت كثيراً يجعلونك ملكاً.</q>
+	<cite><a href="/t/497">Bob Dylan</a></cite>
+</blockquote>
 
 
 </footer>

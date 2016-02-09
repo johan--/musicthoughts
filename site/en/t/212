@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/289">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/208">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/212">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/203">
+	<q>You&#39;ve got to be able to hold a lot of contradictory ideas in your mind without going nuts. <br> <br>I feel like to do my job right, when I walk out onstage I&#39;ve got to feel like it&#39;s the most important thing in the world. I&#39;ve also got to feel like, well, it&#39;s only rock and roll. <br> <br>Somehow you&#39;ve got to believe both of those things.</q>
+	<cite><a href="/t/203">Bruce Springsteen</a></cite>
+</blockquote>
 
 
 </footer>

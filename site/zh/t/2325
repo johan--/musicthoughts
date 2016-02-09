@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/567">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/357">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/2325">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/256">
+	<q>如果一個男人(人)早上起床，晚上上床睡覺，而中間隨心所欲地做著他想要做的事情，那麼他就已成功了。</q>
+	<cite><a href="/t/256">Bob Dylan</a></cite>
+</blockquote>
 
 
 </footer>

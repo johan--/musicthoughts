@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">neu</a></li>
-	<li><a href="/author">Autoren</a></li>
-	<li><a href="/contributor">Mitwirkende</a></li>
-	<li><a href="/t/231">Zufälliger Gedanke</a></li>
+	<li><a href="/authors">Autoren</a></li>
+	<li><a href="/contributors">Mitwirkende</a></li>
+	<li><a href="/t/2321">Zufälliger Gedanke</a></li>
 	<li><a href="/search">Suche</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2095">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/286">
+	<q>Übung macht den Meister. Auf-dem-Sprung jedoch erzeugt Kunst.</q>
+	<cite><a href="/t/286">Danielle Egnew</a></cite>
+</blockquote>
 
 
 </footer>

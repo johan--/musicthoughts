@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">جديد</a></li>
-	<li><a href="/author">القائلون</a></li>
-	<li><a href="/contributor">المساهمون</a></li>
-	<li><a href="/t/102">فكرة عشوائية</a></li>
+	<li><a href="/authors">القائلون</a></li>
+	<li><a href="/contributors">المساهمون</a></li>
+	<li><a href="/t/228">فكرة عشوائية</a></li>
 	<li><a href="/search">بحث</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/46">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/647">
+	<q>لم يكن لدينا أي آلات موسيقية لذا فاضطررت لأن أستخدم غيتاري.</q>
+	<cite><a href="/t/647">Maybelle Carter</a></cite>
+</blockquote>
 
 
 </footer>

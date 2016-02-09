@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">novo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/445">pensamento ao acaso</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/631">pensamento ao acaso</a></li>
 	<li><a href="/search">Procurar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/860">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/513">
+	<q>Não sei nada sobre música. No meu trabalho, não tens de saber.</q>
+	<cite><a href="/t/513">Elvis Presley</a></cite>
+</blockquote>
 
 
 </footer>

@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/2474">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/359">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/270">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/513">
+	<q>我對音樂其實一竅不通(什麼也不知道)。(但是)在我這一行你根本不需要“知道”什麼。<br><br>(譯註：欣賞音樂用的是感覺，用的是心臟，不是大腦，沒必要精確的知道任何東西)</q>
+	<cite><a href="/t/513">Elvis Presley</a></cite>
+</blockquote>
 
 
 </footer>

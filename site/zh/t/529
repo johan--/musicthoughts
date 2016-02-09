@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/286">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/392">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/529">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/262">
+	<q>想當搖滾巨星的這個幻想，要比真的去付出能成為搖滾巨星實際的汗馬功勞與代價，來的好玩多了。</q>
+	<cite><a href="/t/262">David Hooper</a></cite>
+</blockquote>
 
 
 </footer>

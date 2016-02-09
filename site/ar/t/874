@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">جديد</a></li>
-	<li><a href="/author">القائلون</a></li>
-	<li><a href="/contributor">المساهمون</a></li>
-	<li><a href="/t/495">فكرة عشوائية</a></li>
+	<li><a href="/authors">القائلون</a></li>
+	<li><a href="/contributors">المساهمون</a></li>
+	<li><a href="/t/42">فكرة عشوائية</a></li>
 	<li><a href="/search">بحث</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/874">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/357">
+	<q>الفرق بين أداء جيد وأداء رائع هو قيلولة.</q>
+	<cite><a href="/t/357">George Burns</a></cite>
+</blockquote>
 
 
 </footer>

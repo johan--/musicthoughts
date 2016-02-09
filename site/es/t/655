@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuevo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/133">pensamiento al azar</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/46">pensamiento al azar</a></li>
 	<li><a href="/search">buscar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/655">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/160">
+	<q>Tengo solo 49 años. Estoy en la mitad del camino. <br><br>No siento que todo se haya terminado. Todavía pienso escribir mejores canciones.</q>
+	<cite><a href="/t/160">Paul McCartney</a></cite>
+</blockquote>
 
 
 </footer>

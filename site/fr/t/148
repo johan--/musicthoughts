@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/83">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/2474">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/148">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/2392">
+	<q>Pour faire plusieurs choses en moins de temps, n&#39;en faites qu&#39;une à la fois.</q>
+	<cite><a href="/t/2392">Wolfgang Amadeus Mozart</a></cite>
+</blockquote>
 
 
 </footer>

@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">جديد</a></li>
-	<li><a href="/author">القائلون</a></li>
-	<li><a href="/contributor">المساهمون</a></li>
-	<li><a href="/t/663">فكرة عشوائية</a></li>
+	<li><a href="/authors">القائلون</a></li>
+	<li><a href="/contributors">المساهمون</a></li>
+	<li><a href="/t/12">فكرة عشوائية</a></li>
 	<li><a href="/search">بحث</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2316">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/204">
+	<q>الموسيقى يجب أن تعبر بداخلك ثم تترك جزءاً منها بك وتأخذ جزءاً منك معها.</q>
+	<cite><a href="/t/204">Henry Threadgill</a></cite>
+</blockquote>
 
 
 </footer>

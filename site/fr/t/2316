@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/59">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/671">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2316">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/567">
+	<q>Ne crains pas les erreurs. Ils n&#39;existent pas.</q>
+	<cite><a href="/t/567">Miles Davis</a></cite>
+</blockquote>
 
 
 </footer>

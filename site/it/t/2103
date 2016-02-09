@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuovo</a></li>
-	<li><a href="/author">autori</a></li>
-	<li><a href="/contributor">contributori</a></li>
-	<li><a href="/t/1995">pensiero a caso</a></li>
+	<li><a href="/authors">autori</a></li>
+	<li><a href="/contributors">contributori</a></li>
+	<li><a href="/t/2236">pensiero a caso</a></li>
 	<li><a href="/search">ricerca</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2103">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/197">
+	<q>Non mi interessa sapere a chi piace e chi lo compra. Perchè se avesse seguito questo criterio, Mozart non avrebbe mai scritto il Don Giovanni, Charlie Parker non avrebbe scritto altro che musica swing. Arriva il momento in cui devi alzarti in piedi e dire, questo è quello che devo fare.</q>
+	<cite><a href="/t/197">Branford Marsalis</a></cite>
+</blockquote>
 
 
 </footer>

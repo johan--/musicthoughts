@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/313">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/392">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/78">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/345">
+	<q>Plus j&#39;apprends de la musique, plus j&#39;apprends d&#39;autres choses.</q>
+	<cite><a href="/t/345">Pat Metheny</a></cite>
+</blockquote>
 
 
 </footer>

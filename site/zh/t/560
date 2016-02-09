@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/647">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/2282">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/560">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/125">
+	<q>我的一個座右銘就是，如果你想要得到意想不到的(不一樣的)成果，那就要又快又賤價地工作，因為這樣以來你能達前人所不及的領域的機會會比較大很多。<br><br>幾乎每一次，花很多錢唯一達到的功效也不過是把東西變的更平凡而已。</q>
+	<cite><a href="/t/125">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

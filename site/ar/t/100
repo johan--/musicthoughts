@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">جديد</a></li>
-	<li><a href="/author">القائلون</a></li>
-	<li><a href="/contributor">المساهمون</a></li>
-	<li><a href="/t/2275">فكرة عشوائية</a></li>
+	<li><a href="/authors">القائلون</a></li>
+	<li><a href="/contributors">المساهمون</a></li>
+	<li><a href="/t/2095">فكرة عشوائية</a></li>
 	<li><a href="/search">بحث</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/100">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/663">
+	<q>الأشخاص الذين لا يسببون أي ضجة هم أشخاص خطرون.</q>
+	<cite><a href="/t/663">Jean delaFontaine</a></cite>
+</blockquote>
 
 
 </footer>

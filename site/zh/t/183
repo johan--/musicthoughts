@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/631">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/551">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/183">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/209">
+	<q>你會變老。你會開始替他人抱著希望，而非替自己抱著什麼希望。</q>
+	<cite><a href="/t/209">Bob Dylan</a></cite>
+</blockquote>
 
 
 </footer>

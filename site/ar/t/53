@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">جديد</a></li>
-	<li><a href="/author">القائلون</a></li>
-	<li><a href="/contributor">المساهمون</a></li>
-	<li><a href="/t/544">فكرة عشوائية</a></li>
+	<li><a href="/authors">القائلون</a></li>
+	<li><a href="/contributors">المساهمون</a></li>
+	<li><a href="/t/262">فكرة عشوائية</a></li>
 	<li><a href="/search">بحث</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/53">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/466">
+	<q>أتمنى لو كان يوجد دروس في مجال الأعمال الموسيقية لآخذها.</q>
+	<cite><a href="/t/466">Kurt Cobain</a></cite>
+</blockquote>
 
 
 </footer>

@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/408">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/96">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/227">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/231">
+	<q>所有一竿子打翻一條船的定律，原則，與構想的一般見解，概括，綜合，歸納，全部都是錯的，包括這一個。</q>
+	<cite><a href="/t/231">Henry David Thoreau</a></cite>
+</blockquote>
 
 
 </footer>

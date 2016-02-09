@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/148">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/521">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/10">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/539">
+	<q>L&#39;éducation survit quand ce qu&#39;on a appris est oublié.</q>
+	<cite><a href="/t/539">B. F. Skinner</a></cite>
+</blockquote>
 
 
 </footer>

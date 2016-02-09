@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/175">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/495">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2280">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/233">
+	<q>If you ain&#39;t killin&#39; &#39;em, maybe your point ain&#39;t sharp enough.</q>
+	<cite><a href="/t/233">Kevin Welch</a></cite>
+</blockquote>
 
 
 </footer>

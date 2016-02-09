@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">новое</a></li>
-	<li><a href="/author">авторы</a></li>
-	<li><a href="/contributor">контрибьюторы</a></li>
-	<li><a href="/t/190">случайное высказывание</a></li>
+	<li><a href="/authors">авторы</a></li>
+	<li><a href="/contributors">контрибьюторы</a></li>
+	<li><a href="/t/213">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/132">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/57">
+	<q>Каждый раз, когда приумножаются ваши знания, они одновременно и приуменьшаются. Вы учитесь и забываете то, что знали в то же самое время. Новая уверенность в чем-то - это также и новое сомнение.</q>
+	<cite><a href="/t/57">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuovo</a></li>
-	<li><a href="/author">autori</a></li>
-	<li><a href="/contributor">contributori</a></li>
-	<li><a href="/t/49">pensiero a caso</a></li>
+	<li><a href="/authors">autori</a></li>
+	<li><a href="/contributors">contributori</a></li>
+	<li><a href="/t/139">pensiero a caso</a></li>
 	<li><a href="/search">ricerca</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/107">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/501">
+	<q>È scorretto criticare un romanzo per il fatto che si accontenti di misteriose coincidenze, ma è giusto biasimare l&#39;uomo per essere cieco verso tali coincidenze nella vita quotidiana. Questo per il semplice motivo che sta privando la sua vita di una dimensione della bellezza.</q>
+	<cite><a href="/t/501">Milan Kundera</a></cite>
+</blockquote>
 
 
 </footer>

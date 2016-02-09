@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuevo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/181">pensamiento al azar</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/359">pensamiento al azar</a></li>
 	<li><a href="/search">buscar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/106">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/619">
+	<q>Dicen que el tiempo cambia las cosas, pero en realidad eres tú mismo quien debe cambiarlas.</q>
+	<cite><a href="/t/619">Andy Warhol</a></cite>
+</blockquote>
 
 
 </footer>

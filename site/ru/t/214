@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">новое</a></li>
-	<li><a href="/author">авторы</a></li>
-	<li><a href="/contributor">контрибьюторы</a></li>
-	<li><a href="/t/2236">случайное высказывание</a></li>
+	<li><a href="/authors">авторы</a></li>
+	<li><a href="/contributors">контрибьюторы</a></li>
+	<li><a href="/t/338">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/214">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/546">
+	<q>Я не могу понять людей, которые боятся новых идей. Лично я боюсь старых.</q>
+	<cite><a href="/t/546">John Cage</a></cite>
+</blockquote>
 
 
 </footer>

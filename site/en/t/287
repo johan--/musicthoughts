@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/297">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/1858">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/287">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/49">
+	<q>The problem with thinking about your own past is you forget its genesis and start to feel useless awe towards your earlier self.</q>
+	<cite><a href="/t/49">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

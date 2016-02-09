@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">новое</a></li>
-	<li><a href="/author">авторы</a></li>
-	<li><a href="/contributor">контрибьюторы</a></li>
-	<li><a href="/t/160">случайное высказывание</a></li>
+	<li><a href="/authors">авторы</a></li>
+	<li><a href="/contributors">контрибьюторы</a></li>
+	<li><a href="/t/1705">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2309">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/60">
+	<q>Джон Кейдж заставил вас поверить в то, шума как такового никогда не существовало, это была просто музыка, которую вы не оценили.</q>
+	<cite><a href="/t/60">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

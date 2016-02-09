@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/319">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/119">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/162">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/2236">
+	<q>Certains réussissent de par leur destin, mais la plupart réussissent de par leur détermination.</q>
+	<cite><a href="/t/2236">Henry Dyke</a></cite>
+</blockquote>
 
 
 </footer>

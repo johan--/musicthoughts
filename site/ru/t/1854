@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">новое</a></li>
-	<li><a href="/author">авторы</a></li>
-	<li><a href="/contributor">контрибьюторы</a></li>
-	<li><a href="/t/512">случайное высказывание</a></li>
+	<li><a href="/authors">авторы</a></li>
+	<li><a href="/contributors">контрибьюторы</a></li>
+	<li><a href="/t/6">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/1854">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/169">
+	<q>Если собираешься подметать пол, то делай это лучше всех в городе. А если собираешься играть на гитаре, то, по-настоящему, по-настоящему подружись с ней, и не шути с этим.</q>
+	<cite><a href="/t/169">Carlos Santana</a></cite>
+</blockquote>
 
 
 </footer>

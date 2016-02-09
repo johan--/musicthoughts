@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">novo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/2441">pensamento ao acaso</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/2236">pensamento ao acaso</a></li>
 	<li><a href="/search">Procurar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/71">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/2518">
+	<q>Um principiante pratica algo até conseguir fazê-lo bem.<br><br>Um profissional pratica algo até não o conseguir fazer mal!</q>
+	<cite><a href="/t/2518">unknown</a></cite>
+</blockquote>
 
 
 </footer>

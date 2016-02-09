@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/273">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/418">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/127">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/38">
+	<q>N&#39;avoir aucun silence dans la musique est comme n&#39;avoir ni noir ni blanc dans un tableau.</q>
+	<cite><a href="/t/38">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

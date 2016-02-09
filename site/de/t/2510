@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">neu</a></li>
-	<li><a href="/author">Autoren</a></li>
-	<li><a href="/contributor">Mitwirkende</a></li>
-	<li><a href="/t/181">Zufälliger Gedanke</a></li>
+	<li><a href="/authors">Autoren</a></li>
+	<li><a href="/contributors">Mitwirkende</a></li>
+	<li><a href="/t/2095">Zufälliger Gedanke</a></li>
 	<li><a href="/search">Suche</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2510">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/48">
+	<q>Ich habe nicht genügend Enthusiasmus mich durch diejenigen Projekte zu quälen, die mir vertraut scheinen.</q>
+	<cite><a href="/t/48">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

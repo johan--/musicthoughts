@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/2393">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/61">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2016">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/174">
+	<q>I saw Bob Dylan getting criticized in Australia by this guy who was saying, &quot;Your new songs aren&#39;t as relevant as your old songs.&quot; <br> <br>And Dylan just said, &quot;Well, I&#39;m out here writing songs - what are you doing?&quot;</q>
+	<cite><a href="/t/174">Bob Dylan</a></cite>
+</blockquote>
 
 
 </footer>

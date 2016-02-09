@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">novo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/83">pensamento ao acaso</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/384">pensamento ao acaso</a></li>
 	<li><a href="/search">Procurar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/719">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/177">
+	<q>Não penso sobre o significado de tudo isto. Digo, liga a porcaria da guitarra e faz barulho.</q>
+	<cite><a href="/t/177">Paul Westerberg</a></cite>
+</blockquote>
 
 
 </footer>

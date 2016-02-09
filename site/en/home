@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/2418">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/497">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -60,6 +60,11 @@
 	<li><a href="http://zh.musicthoughts.com/">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/670">
+	<q>Making music should not be left to the professionals.</q>
+	<cite><a href="/t/670">Michelle Shocked</a></cite>
+</blockquote>
 
 
 </footer>

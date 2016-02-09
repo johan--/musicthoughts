@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">новое</a></li>
-	<li><a href="/author">авторы</a></li>
-	<li><a href="/contributor">контрибьюторы</a></li>
-	<li><a href="/t/466">случайное высказывание</a></li>
+	<li><a href="/authors">авторы</a></li>
+	<li><a href="/contributors">контрибьюторы</a></li>
+	<li><a href="/t/497">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/97">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/88">
+	<q>Должна ли запись, быть отражением того места, где вы сейчас или она должна отражать все те места, где вы могли бывать?</q>
+	<cite><a href="/t/88">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuovo</a></li>
-	<li><a href="/author">autori</a></li>
-	<li><a href="/contributor">contributori</a></li>
-	<li><a href="/t/2393">pensiero a caso</a></li>
+	<li><a href="/authors">autori</a></li>
+	<li><a href="/contributors">contributori</a></li>
+	<li><a href="/t/2295">pensiero a caso</a></li>
 	<li><a href="/search">ricerca</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/123">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/533">
+	<q>Il jazz è l&#39;unico tipo di musica in cui la stessa nota possa essere suonata notte dopo notte ma ogni volta in un modo diverso.</q>
+	<cite><a href="/t/533">Ornette Coleman</a></cite>
+</blockquote>
 
 
 </footer>

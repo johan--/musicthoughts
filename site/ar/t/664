@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">جديد</a></li>
-	<li><a href="/author">القائلون</a></li>
-	<li><a href="/contributor">المساهمون</a></li>
-	<li><a href="/t/2295">فكرة عشوائية</a></li>
+	<li><a href="/authors">القائلون</a></li>
+	<li><a href="/contributors">المساهمون</a></li>
+	<li><a href="/t/567">فكرة عشوائية</a></li>
 	<li><a href="/search">بحث</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/664">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/75">
+	<q>إن كنت تستخدم أدوات موسيقى إلكترونية في استوديو التسجيل، يصبح الحكم أمراً مهماً جداً والموهبة تصبح أمراً ليس بنفس الأهمية.</q>
+	<cite><a href="/t/75">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

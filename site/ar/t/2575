@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">جديد</a></li>
-	<li><a href="/author">القائلون</a></li>
-	<li><a href="/contributor">المساهمون</a></li>
-	<li><a href="/t/483">فكرة عشوائية</a></li>
+	<li><a href="/authors">القائلون</a></li>
+	<li><a href="/contributors">المساهمون</a></li>
+	<li><a href="/t/102">فكرة عشوائية</a></li>
 	<li><a href="/search">بحث</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2575">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/415">
+	<q>أفضل فرصة لديك إن كنت تريد العلا هي أن تسلم نفسك للوحدة ولا تخاف من أي شيء وتعمل جاهداً.</q>
+	<cite><a href="/t/415">Mark Helprin</a></cite>
+</blockquote>
 
 
 </footer>

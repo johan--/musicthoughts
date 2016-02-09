@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuovo</a></li>
-	<li><a href="/author">autori</a></li>
-	<li><a href="/contributor">contributori</a></li>
-	<li><a href="/t/42">pensiero a caso</a></li>
+	<li><a href="/authors">autori</a></li>
+	<li><a href="/contributors">contributori</a></li>
+	<li><a href="/t/670">pensiero a caso</a></li>
 	<li><a href="/search">ricerca</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/1705">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/483">
+	<q>Dai alla gente quello che desidera, e la gente ti dará ciò che tu desideri.</q>
+	<cite><a href="/t/483">William Ballester</a></cite>
+</blockquote>
 
 
 </footer>

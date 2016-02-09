@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/2321">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/60">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/20">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/263">
+	<q>The most popular form of transportation in the music business is the bandwagon.</q>
+	<cite><a href="/t/263">David Hooper</a></cite>
+</blockquote>
 
 
 </footer>

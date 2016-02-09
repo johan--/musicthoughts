@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/408">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/169">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/313">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/458">
+	<q>Si l&#39;industrie du lait peut rendre leur produit sexy et accroître la demande de consommation, il doit y avoir de l&#39;espoir pour la musique.</q>
+	<cite><a href="/t/458">Gary Arnold, Merchandising Manager, Best Buy</a></cite>
+</blockquote>
 
 
 </footer>

@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/233">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/2432">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/531">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/102">
+	<q>現代音樂唯一重要的，不是你能(用紙筆)寫下的部份，那些字，旋律等，而是其他(你沒辦法用手寫下的部份)─它的精神，氣氛，它涉及的東西和聯想物。</q>
+	<cite><a href="/t/102">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

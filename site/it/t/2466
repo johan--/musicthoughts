@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuovo</a></li>
-	<li><a href="/author">autori</a></li>
-	<li><a href="/contributor">contributori</a></li>
-	<li><a href="/t/338">pensiero a caso</a></li>
+	<li><a href="/authors">autori</a></li>
+	<li><a href="/contributors">contributori</a></li>
+	<li><a href="/t/287">pensiero a caso</a></li>
 	<li><a href="/search">ricerca</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2466">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/233">
+	<q>Se non sei riuscito ad ucciderli, forse la tua punta non era abbastanza affilata.</q>
+	<cite><a href="/t/233">Kevin Welch</a></cite>
+</blockquote>
 
 
 </footer>

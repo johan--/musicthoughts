@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuovo</a></li>
-	<li><a href="/author">autori</a></li>
-	<li><a href="/contributor">contributori</a></li>
-	<li><a href="/t/665">pensiero a caso</a></li>
+	<li><a href="/authors">autori</a></li>
+	<li><a href="/contributors">contributori</a></li>
+	<li><a href="/t/160">pensiero a caso</a></li>
 	<li><a href="/search">ricerca</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/1884">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/159">
+	<q>Se prendi una nota sbagliata, allora cerca di renderla corretta con quella che suonerai subito dopo.</q>
+	<cite><a href="/t/159">Joe Pass</a></cite>
+</blockquote>
 
 
 </footer>

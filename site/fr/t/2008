@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/297">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/49">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2008">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/197">
+	<q>Je me fous de savoir si les gens l&#39;aiment ou s&#39;ils l&#39;achètent.<br><br>Parce qu&#39;en suivant ce critère, Mozart n&#39;aurait jamais écrit Don Giovanni, Charlie Parker n&#39;aurait joué rien que de la musique swing.<br><br>On doit prendre position à un certain point et se dire, c&#39;est ce que je dois faire.</q>
+	<cite><a href="/t/197">Branford Marsalis</a></cite>
+</blockquote>
 
 
 </footer>

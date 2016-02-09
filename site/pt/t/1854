@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">novo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/148">pensamento ao acaso</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/1896">pensamento ao acaso</a></li>
 	<li><a href="/search">Procurar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/1854">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/164">
+	<q>Nem toda a gente vai gostar daquilo que eu faço, e isso é algo que eu posso aceitar. Se toda a gente gostasse daquilo que eu faço, provavelmente não tocaria nada de profundo.</q>
+	<cite><a href="/t/164">Joshua Redman</a></cite>
+</blockquote>
 
 
 </footer>

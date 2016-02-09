@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">новое</a></li>
-	<li><a href="/author">авторы</a></li>
-	<li><a href="/contributor">контрибьюторы</a></li>
-	<li><a href="/t/1809">случайное высказывание</a></li>
+	<li><a href="/authors">авторы</a></li>
+	<li><a href="/contributors">контрибьюторы</a></li>
+	<li><a href="/t/273">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/430">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/494">
+	<q>Играй только то, что слышишь. Если не слышишь ничего, ничего и не играй.</q>
+	<cite><a href="/t/494">Chick Corea</a></cite>
+</blockquote>
 
 
 </footer>

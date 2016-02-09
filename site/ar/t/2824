@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">جديد</a></li>
-	<li><a href="/author">القائلون</a></li>
-	<li><a href="/contributor">المساهمون</a></li>
-	<li><a href="/t/170">فكرة عشوائية</a></li>
+	<li><a href="/authors">القائلون</a></li>
+	<li><a href="/contributors">المساهمون</a></li>
+	<li><a href="/t/607">فكرة عشوائية</a></li>
 	<li><a href="/search">بحث</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2824">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/666">
+	<q>الأرواح العظيمة لطالما واجهت معارضة عنيفة من العقول الوضيعة.</q>
+	<cite><a href="/t/666">Albert Einstein</a></cite>
+</blockquote>
 
 
 </footer>

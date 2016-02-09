@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuovo</a></li>
-	<li><a href="/author">autori</a></li>
-	<li><a href="/contributor">contributori</a></li>
-	<li><a href="/t/607">pensiero a caso</a></li>
+	<li><a href="/authors">autori</a></li>
+	<li><a href="/contributors">contributori</a></li>
+	<li><a href="/t/314">pensiero a caso</a></li>
 	<li><a href="/search">ricerca</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/665">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/118">
+	<q>Fai quello che hai sempre fatto finora, ma adesso fallo col cuore. Dai valore a questo processo. Pretendi di vivere tutta la tua vita come un artista.</q>
+	<cite><a href="/t/118">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

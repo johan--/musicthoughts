@@ -29,9 +29,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新規</a></li>
-	<li><a href="/author">発想者</a></li>
-	<li><a href="/contributor">寄稿者</a></li>
-	<li><a href="/t/2578">ランダムな考想</a></li>
+	<li><a href="/authors">発想者</a></li>
+	<li><a href="/contributors">寄稿者</a></li>
+	<li><a href="/t/345">ランダムな考想</a></li>
 	<li><a href="/search">検索</a></li>
 </ul>
 </nav>
@@ -61,6 +61,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/158">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/287">
+	<q>ちょうど子供達がアイスクリーム屋さんのトラックに［向かって］飛び出していくように、歌詞もメロディに飛び出していく。</q>
+	<cite><a href="/t/287">Danielle Egnew</a></cite>
+</blockquote>
 
 
 </footer>

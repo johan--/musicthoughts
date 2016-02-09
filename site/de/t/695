@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">neu</a></li>
-	<li><a href="/author">Autoren</a></li>
-	<li><a href="/contributor">Mitwirkende</a></li>
-	<li><a href="/t/357">Zufälliger Gedanke</a></li>
+	<li><a href="/authors">Autoren</a></li>
+	<li><a href="/contributors">Mitwirkende</a></li>
+	<li><a href="/t/263">Zufälliger Gedanke</a></li>
 	<li><a href="/search">Suche</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/695">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/262">
+	<q>Der Gedanke daran Rockstar zu sein macht viel mehr Spaß, als tatsächlich für das zu arbeiten, was einen zum Rockstar macht.</q>
+	<cite><a href="/t/262">David Hooper</a></cite>
+</blockquote>
 
 
 </footer>

@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">новое</a></li>
-	<li><a href="/author">авторы</a></li>
-	<li><a href="/contributor">контрибьюторы</a></li>
-	<li><a href="/t/2638">случайное высказывание</a></li>
+	<li><a href="/authors">авторы</a></li>
+	<li><a href="/contributors">контрибьюторы</a></li>
+	<li><a href="/t/451">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/231">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/466">
+	<q>Хотел бы я, чтобы выпустили курс &quot;101 вопрос о музыкальном бизнесе&quot;.</q>
+	<cite><a href="/t/466">Kurt Cobain</a></cite>
+</blockquote>
 
 
 </footer>

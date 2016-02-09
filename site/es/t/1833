@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuevo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/1858">pensamiento al azar</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/256">pensamiento al azar</a></li>
 	<li><a href="/search">buscar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/1833">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/340">
+	<q>La determinación de ganar es la mejor parte de la victoria.</q>
+	<cite><a href="/t/340">Daisaku Ikeda</a></cite>
+</blockquote>
 
 
 </footer>

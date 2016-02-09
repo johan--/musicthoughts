@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuovo</a></li>
-	<li><a href="/author">autori</a></li>
-	<li><a href="/contributor">contributori</a></li>
-	<li><a href="/t/57">pensiero a caso</a></li>
+	<li><a href="/authors">autori</a></li>
+	<li><a href="/contributors">contributori</a></li>
+	<li><a href="/t/663">pensiero a caso</a></li>
 	<li><a href="/search">ricerca</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/124">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/479">
+	<q>È abbastanza ironico: Ci siamo sbarazzati della nostra strumentazione analogica, l&#39;abbiamo sostituita con quella digitale, poi abbiamo trascorso il successivo paio di decadi cercando di fare in modo che il digitale suonasse come l&#39;analogico di cui ci eravamo sbarazzati.</q>
+	<cite><a href="/t/479">David Williams</a></cite>
+</blockquote>
 
 
 </footer>

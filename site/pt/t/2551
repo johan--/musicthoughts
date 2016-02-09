@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">novo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/2275">pensamento ao acaso</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/2430">pensamento ao acaso</a></li>
 	<li><a href="/search">Procurar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2551">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/1995">
+	<q>Um bom profissional salta para o palco, olha para o público, e pensa, &quot;Aqui estou eu!&quot;<br><br>Um grande profissional salta para o palco, olha para o público, e pensa, &quot;Aí estão vocês!&quot;</q>
+	<cite><a href="/t/1995">Steve Rapson</a></cite>
+</blockquote>
 
 
 </footer>

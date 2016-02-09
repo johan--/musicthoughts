@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/118">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/205">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/219">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/88">
+	<q>Should a record be a picture of where you are now, or of all the places you could just as likely be?</q>
+	<cite><a href="/t/88">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">новое</a></li>
-	<li><a href="/author">авторы</a></li>
-	<li><a href="/contributor">контрибьюторы</a></li>
-	<li><a href="/t/96">случайное высказывание</a></li>
+	<li><a href="/authors">авторы</a></li>
+	<li><a href="/contributors">контрибьюторы</a></li>
+	<li><a href="/t/2430">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/93">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/197">
+	<q>Мне плевать на оценку моей музыки со стороны.<br>Потому что, следуя критериям оценки,  Моцарт никогда не написал бы своего Дон Жуана, Чарли Паркер никогда не сыграл бы ничего, кроме свинга.<br>Надо не бояться стоять на своем и делать то, что должен.</q>
+	<cite><a href="/t/197">Branford Marsalis</a></cite>
+</blockquote>
 
 
 </footer>

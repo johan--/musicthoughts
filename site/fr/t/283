@@ -27,8 +27,8 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
 	<li><a href="/t/47">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/283">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/57">
+	<q>Toute augmentation de connaissance est une dimunition concomitante. On apprend et on désapprend en même temps. Toute nouvelle certitude est aussi un nouveau doute.</q>
+	<cite><a href="/t/57">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

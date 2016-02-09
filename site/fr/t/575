@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/399">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/1809">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/575">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/611">
+	<q>Sans Elvis, aucun d&#39;entre nous ne serait là.</q>
+	<cite><a href="/t/611">Buddy Holly</a></cite>
+</blockquote>
 
 
 </footer>

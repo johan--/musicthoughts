@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuovo</a></li>
-	<li><a href="/author">autori</a></li>
-	<li><a href="/contributor">contributori</a></li>
-	<li><a href="/t/538">pensiero a caso</a></li>
+	<li><a href="/authors">autori</a></li>
+	<li><a href="/contributors">contributori</a></li>
+	<li><a href="/t/546">pensiero a caso</a></li>
 	<li><a href="/search">ricerca</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/35">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/66">
+	<q>La musica ha finito col ridursi a qualcosa che non deve essere piú udibile, ma che sia registrabile.</q>
+	<cite><a href="/t/66">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

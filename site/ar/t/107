@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">جديد</a></li>
-	<li><a href="/author">القائلون</a></li>
-	<li><a href="/contributor">المساهمون</a></li>
-	<li><a href="/t/2393">فكرة عشوائية</a></li>
+	<li><a href="/authors">القائلون</a></li>
+	<li><a href="/contributors">المساهمون</a></li>
+	<li><a href="/t/33">فكرة عشوائية</a></li>
 	<li><a href="/search">بحث</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/107">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/95">
+	<q>الأفضل أن تفعله هو أن تكتب كلمات أنت لا تفهمها.<br><br>اجعلها تشعرك بأن هذا ما تريد أن تغنيه لكنك لا تعرف السبب.</q>
+	<cite><a href="/t/95">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

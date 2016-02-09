@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuovo</a></li>
-	<li><a href="/author">autori</a></li>
-	<li><a href="/contributor">contributori</a></li>
-	<li><a href="/t/2357">pensiero a caso</a></li>
+	<li><a href="/authors">autori</a></li>
+	<li><a href="/contributors">contributori</a></li>
+	<li><a href="/t/2441">pensiero a caso</a></li>
 	<li><a href="/search">ricerca</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2467">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/125">
+	<q>Uno dei miei motto è che sei vuoi ottenere risultati insoliti, lavora veloce e in economia, perché c&#39;é piú di una possibilitá che tu arrivi da qualche parte dove nessuno è ancora mai arrivato. Quasi sempre, il risultato di spendere un sacco di soldi è l&#39;ottenere cose piú normali.</q>
+	<cite><a href="/t/125">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

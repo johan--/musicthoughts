@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuovo</a></li>
-	<li><a href="/author">autori</a></li>
-	<li><a href="/contributor">contributori</a></li>
-	<li><a href="/t/463">pensiero a caso</a></li>
+	<li><a href="/authors">autori</a></li>
+	<li><a href="/contributors">contributori</a></li>
+	<li><a href="/t/133">pensiero a caso</a></li>
 	<li><a href="/search">ricerca</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/338">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/1809">
+	<q>Non ho mai conosciuto un musicista a cui non piacesse esserlo. Qualsiasi genere di inganno la vita ti stia preparando, la musica non ti abbandonerá mai.</q>
+	<cite><a href="/t/1809">Virgil Thompson</a></cite>
+</blockquote>
 
 
 </footer>

@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">новое</a></li>
-	<li><a href="/author">авторы</a></li>
-	<li><a href="/contributor">контрибьюторы</a></li>
-	<li><a href="/t/60">случайное высказывание</a></li>
+	<li><a href="/authors">авторы</a></li>
+	<li><a href="/contributors">контрибьюторы</a></li>
+	<li><a href="/t/118">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/169">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/2392">
+	<q>Более короткий путь к созданию многих произведений - работать одновременно только над одним.</q>
+	<cite><a href="/t/2392">Wolfgang Amadeus Mozart</a></cite>
+</blockquote>
 
 
 </footer>

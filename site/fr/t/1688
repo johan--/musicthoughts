@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/169">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/228">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/1688">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/205">
+	<q>Je m&#39;attaque d&#39;arrache-pied aux choses qui vont de travers.</q>
+	<cite><a href="/t/205">Neil Young</a></cite>
+</blockquote>
 
 
 </footer>

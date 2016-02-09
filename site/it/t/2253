@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuovo</a></li>
-	<li><a href="/author">autori</a></li>
-	<li><a href="/contributor">contributori</a></li>
-	<li><a href="/t/605">pensiero a caso</a></li>
+	<li><a href="/authors">autori</a></li>
+	<li><a href="/contributors">contributori</a></li>
+	<li><a href="/t/2418">pensiero a caso</a></li>
 	<li><a href="/search">ricerca</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2253">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/59">
+	<q>Comporre rappresenta un modo per vivere attraverso la tua filosofia che viene chiamata arte.</q>
+	<cite><a href="/t/59">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

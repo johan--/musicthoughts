@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/1995">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/208">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/2753">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/6">
+	<q>這構想就是要做出就像你第一次聽到的音樂那時同樣新奇與神祕的東西。</q>
+	<cite><a href="/t/6">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新規</a></li>
-	<li><a href="/author">発想者</a></li>
-	<li><a href="/contributor">寄稿者</a></li>
-	<li><a href="/t/551">ランダムな考想</a></li>
+	<li><a href="/authors">発想者</a></li>
+	<li><a href="/contributors">寄稿者</a></li>
+	<li><a href="/t/190">ランダムな考想</a></li>
 	<li><a href="/search">検索</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/114">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/289">
+	<q>自分のやっていることを心の底から好きな人だけが、指先の一番繊細な部分にタコができるほど楽器を弾く努力をするんだ。<br><br>自分のやっていることを心の底から好きな人だけが、自身の芸術の一番繊細な部分にタコができるほどこの業界に入ろうと努力するんだ。</q>
+	<cite><a href="/t/289">Danielle Egnew</a></cite>
+</blockquote>
 
 
 </footer>

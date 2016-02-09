@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuovo</a></li>
-	<li><a href="/author">autori</a></li>
-	<li><a href="/contributor">contributori</a></li>
-	<li><a href="/t/44">pensiero a caso</a></li>
+	<li><a href="/authors">autori</a></li>
+	<li><a href="/contributors">contributori</a></li>
+	<li><a href="/t/2355">pensiero a caso</a></li>
 	<li><a href="/search">ricerca</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/437">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/2418">
+	<q>Fai uso di qualsiasi talento tu possieda: le foreste sarebbero molto silenziose se nessun uccello vi cantasse ad eccezione di quelli che cantano meglio.</q>
+	<cite><a href="/t/2418">Henry Van Dyke</a></cite>
+</blockquote>
 
 
 </footer>

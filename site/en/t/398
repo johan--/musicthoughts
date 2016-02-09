@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/66">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/2095">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/398">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/12">
+	<q>Everything I see is something I haven&#39;t memorized.</q>
+	<cite><a href="/t/12">John Cage</a></cite>
+</blockquote>
 
 
 </footer>

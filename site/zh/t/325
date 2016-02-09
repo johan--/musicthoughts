@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/61">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/343">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/325">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/164">
+	<q>並不是所有人將會喜歡我所做的(作品)，而這是我可以接受的。<br><br>如果大家都喜歡我所做得，那麼我所演奏的應該都是很膚淺的，絕不可能是任何深奧的東西。</q>
+	<cite><a href="/t/164">Joshua Redman</a></cite>
+</blockquote>
 
 
 </footer>

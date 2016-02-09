@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/659">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/1989">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2569">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/343">
+	<q>As I get more involved and more advanced as a musician, I see that everything I do has the potential to be music and vice versa.</q>
+	<cite><a href="/t/343">Pat Metheny</a></cite>
+</blockquote>
 
 
 </footer>

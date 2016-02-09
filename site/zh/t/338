@@ -29,9 +29,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/497">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/2291">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -61,6 +61,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/338">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/2578">
+	<q>关键不是飞机－关键在于飞行员（的操控）。</q>
+	<cite><a href="/t/2578">Chuck Yeager</a></cite>
+</blockquote>
 
 
 </footer>

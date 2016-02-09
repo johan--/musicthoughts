@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">новое</a></li>
-	<li><a href="/author">авторы</a></li>
-	<li><a href="/contributor">контрибьюторы</a></li>
-	<li><a href="/t/314">случайное высказывание</a></li>
+	<li><a href="/authors">авторы</a></li>
+	<li><a href="/contributors">контрибьюторы</a></li>
+	<li><a href="/t/174">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2297">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/2518">
+	<q>Любитель практикуется до тех пор, пока не выполнит это правильно.<br><br>Профессионал практикуется до тех пор, пока он не сможет выполнить это неправильно!</q>
+	<cite><a href="/t/2518">unknown</a></cite>
+</blockquote>
 
 
 </footer>

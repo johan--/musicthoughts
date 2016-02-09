@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">новое</a></li>
-	<li><a href="/author">авторы</a></li>
-	<li><a href="/contributor">контрибьюторы</a></li>
-	<li><a href="/t/533">случайное высказывание</a></li>
+	<li><a href="/authors">авторы</a></li>
+	<li><a href="/contributors">контрибьюторы</a></li>
+	<li><a href="/t/42">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2539">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/638">
+	<q>Ни один артист не бывает доволен собой. Он не чувствует удовлетворения никогда и ни от чего. Есть только необъяснимая, божественная неудовлетворенность, блаженная мука, которые заставляют нас двигаться вперед и делать все больше.</q>
+	<cite><a href="/t/638">Martha Graham</a></cite>
+</blockquote>
 
 
 </footer>

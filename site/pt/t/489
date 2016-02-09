@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">novo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/1809">pensamento ao acaso</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/273">pensamento ao acaso</a></li>
 	<li><a href="/search">Procurar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/489">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/98">
+	<q>[sobre fazer discos] Estamos a fazer revistas, não livros.</q>
+	<cite><a href="/t/98">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

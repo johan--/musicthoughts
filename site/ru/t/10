@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">новое</a></li>
-	<li><a href="/author">авторы</a></li>
-	<li><a href="/contributor">контрибьюторы</a></li>
-	<li><a href="/t/512">случайное высказывание</a></li>
+	<li><a href="/authors">авторы</a></li>
+	<li><a href="/contributors">контрибьюторы</a></li>
+	<li><a href="/t/521">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/10">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/533">
+	<q>Джаз – единственная музыка, в которой одна и та же нота может играться ночь за ночью, но каждый раз по-разному.</q>
+	<cite><a href="/t/533">Ornette Coleman</a></cite>
+</blockquote>
 
 
 </footer>

@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuevo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/208">pensamiento al azar</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/638">pensamiento al azar</a></li>
 	<li><a href="/search">buscar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/185">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/1126">
+	<q>En la música, los mayores y los menores trabajan muy bien juntos.</q>
+	<cite><a href="/t/1126">unknown</a></cite>
+</blockquote>
 
 
 </footer>

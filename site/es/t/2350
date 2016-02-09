@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuevo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/94">pensamiento al azar</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/528">pensamiento al azar</a></li>
 	<li><a href="/search">buscar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2350">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/203">
+	<q>Tienes que ser capaz de sostener en tu mente un gran número de ideas contradictorias sin volverte loco. <br><br>Me parece estar haciendo bien mi trabajo cuando camino hacia el escenario y siento que es la cosa más importante del mundo. Pero también tengo que sentir que, bueno, es sólo rock and roll. <br><br>De alguna manera, tienes que creer en ambas cosas.</q>
+	<cite><a href="/t/203">Bruce Springsteen</a></cite>
+</blockquote>
 
 
 </footer>

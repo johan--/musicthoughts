@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">новое</a></li>
-	<li><a href="/author">авторы</a></li>
-	<li><a href="/contributor">контрибьюторы</a></li>
-	<li><a href="/t/42">случайное высказывание</a></li>
+	<li><a href="/authors">авторы</a></li>
+	<li><a href="/contributors">контрибьюторы</a></li>
+	<li><a href="/t/33">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/176">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/66">
+	<q>Музыка свелась к тому, что стала не той музыкой, которую слушают, но той, которую записывают.</q>
+	<cite><a href="/t/66">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

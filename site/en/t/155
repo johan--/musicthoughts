@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/2359">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/1705">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/155">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/338">
+	<q>The mind is like a diaper. <br> <br>It&#39;s got to be changed every once in a while or it starts to stink.</q>
+	<cite><a href="/t/338">Jeff Kauppi</a></cite>
+</blockquote>
 
 
 </footer>

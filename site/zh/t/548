@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/2008">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/636">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/548">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/198">
+	<q>就我去看音樂家最重要的能力，就是看他是否懂得去聆聽。</q>
+	<cite><a href="/t/198">Duke Ellington</a></cite>
+</blockquote>
 
 
 </footer>

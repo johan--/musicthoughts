@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新規</a></li>
-	<li><a href="/author">発想者</a></li>
-	<li><a href="/contributor">寄稿者</a></li>
-	<li><a href="/t/44">ランダムな考想</a></li>
+	<li><a href="/authors">発想者</a></li>
+	<li><a href="/contributors">寄稿者</a></li>
+	<li><a href="/t/2428">ランダムな考想</a></li>
 	<li><a href="/search">検索</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/153">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/121">
+	<q>読み手が読む詩って、書き手が書いた詩よりいい可能性がある。<br><br>自分がしていたと思っていたものより良いものになるものを作る努力をするんだ。</q>
+	<cite><a href="/t/121">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

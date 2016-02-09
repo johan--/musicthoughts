@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">neu</a></li>
-	<li><a href="/author">Autoren</a></li>
-	<li><a href="/contributor">Mitwirkende</a></li>
-	<li><a href="/t/538">Zufälliger Gedanke</a></li>
+	<li><a href="/authors">Autoren</a></li>
+	<li><a href="/contributors">Mitwirkende</a></li>
+	<li><a href="/t/289">Zufälliger Gedanke</a></li>
 	<li><a href="/search">Suche</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/37">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/88">
+	<q>Sollte ein Album ein Bild dessen sein, wo du dich gerade befindest, oder all der Orte, an denen du dich ebenso befinden könntest?</q>
+	<cite><a href="/t/88">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

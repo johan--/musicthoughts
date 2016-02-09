@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/2428">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/345">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/17">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/148">
+	<q>My own thing is in my head. I hear sounds and if I don&#39;t get them together, nobody else will.</q>
+	<cite><a href="/t/148">Jimi Hendrix</a></cite>
+</blockquote>
 
 
 </footer>

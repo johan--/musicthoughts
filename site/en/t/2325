@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/2029">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/42">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2325">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/94">
+	<q>Somebody in an interview said recently, &quot;What do the words mean?&quot; And I said, &quot;What do the chords mean?&quot;</q>
+	<cite><a href="/t/94">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

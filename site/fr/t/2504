@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/197">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/384">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2504">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/2429">
+	<q>L&#39;art n&#39;est pas ce que tu vois mais ce que tu fais voir aux autres.</q>
+	<cite><a href="/t/2429">Edgar Degas</a></cite>
+</blockquote>
 
 
 </footer>

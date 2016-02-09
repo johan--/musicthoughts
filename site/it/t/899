@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuovo</a></li>
-	<li><a href="/author">autori</a></li>
-	<li><a href="/contributor">contributori</a></li>
-	<li><a href="/t/2357">pensiero a caso</a></li>
+	<li><a href="/authors">autori</a></li>
+	<li><a href="/contributors">contributori</a></li>
+	<li><a href="/t/125">pensiero a caso</a></li>
 	<li><a href="/search">ricerca</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/899">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/94">
+	<q>Qualcuno in una recente intervista ha detto, &quot;Che significato ha il mondo?&quot; Ed io dico, &quot;Che cosa significano gli accordi?&quot;</q>
+	<cite><a href="/t/94">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

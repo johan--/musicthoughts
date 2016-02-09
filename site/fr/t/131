@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/6">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/51">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/131">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/125">
+	<q>J&#39;ai une devise qui veut que si on souhaite des résultats inusités, il faut travailler vite et à bon marché, car il y a plus de chances qu&#39;on arrive quelque part où personne n&#39;a été.<br><br>L&#39;effet de dépenser beaucoup d&#39;argent est presque toujours la normalisation des choses.</q>
+	<cite><a href="/t/125">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

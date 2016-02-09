@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">novo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/533">pensamento ao acaso</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/2008">pensamento ao acaso</a></li>
 	<li><a href="/search">Procurar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/464">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/360">
+	<q>Não tem nada a ver com o mensageiro. Tem tudo a ver com a mensagem.</q>
+	<cite><a href="/t/360">Dalai Lama</a></cite>
+</blockquote>
 
 
 </footer>

@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">جديد</a></li>
-	<li><a href="/author">القائلون</a></li>
-	<li><a href="/contributor">المساهمون</a></li>
-	<li><a href="/t/374">فكرة عشوائية</a></li>
+	<li><a href="/authors">القائلون</a></li>
+	<li><a href="/contributors">المساهمون</a></li>
+	<li><a href="/t/2432">فكرة عشوائية</a></li>
 	<li><a href="/search">بحث</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/112">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/160">
+	<q>أنا في الـ49 من عمري فقط. أنا لا أزال في منتصف مهنتي.<br><br>لا أشعر بانها انتهت أبداً. فأنا لا أزال أخطط لأن أكتب أغانٍ أفضل.</q>
+	<cite><a href="/t/160">Paul McCartney</a></cite>
+</blockquote>
 
 
 </footer>

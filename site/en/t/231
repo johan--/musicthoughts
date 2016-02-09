@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/286">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/2518">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/231">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/121">
+	<q>The poem the reader reads may be better than that which the writer wrote. <br> <br>Try to make things that can become better than what you thought you were doing.</q>
+	<cite><a href="/t/121">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/567">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/551">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/404">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/181">
+	<q>Si cela fonctionne dans la chanson, c&#39;est que tu as fait le bon choix.</q>
+	<cite><a href="/t/181">Robbie Robertson</a></cite>
+</blockquote>
 
 
 </footer>

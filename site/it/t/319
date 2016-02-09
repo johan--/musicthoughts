@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuovo</a></li>
-	<li><a href="/author">autori</a></li>
-	<li><a href="/contributor">contributori</a></li>
-	<li><a href="/t/2271">pensiero a caso</a></li>
+	<li><a href="/authors">autori</a></li>
+	<li><a href="/contributors">contributori</a></li>
+	<li><a href="/t/204">pensiero a caso</a></li>
 	<li><a href="/search">ricerca</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/319">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/51">
+	<q>Non appena esteriorizzi un&#39;idea potrai scorgere aspetti di essa che non ti erano chiari quando stava solo fluttuando nel tuo cervello.</q>
+	<cite><a href="/t/51">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

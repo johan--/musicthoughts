@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/169">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/197">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/384">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/41">
+	<q>Je veux créer des choses qui me mettent dans une position d&#39;innocence, qui recréent le sentiment d&#39;innocence en soi.</q>
+	<cite><a href="/t/41">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

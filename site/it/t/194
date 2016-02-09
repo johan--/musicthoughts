@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuovo</a></li>
-	<li><a href="/author">autori</a></li>
-	<li><a href="/contributor">contributori</a></li>
-	<li><a href="/t/169">pensiero a caso</a></li>
+	<li><a href="/authors">autori</a></li>
+	<li><a href="/contributors">contributori</a></li>
+	<li><a href="/t/551">pensiero a caso</a></li>
 	<li><a href="/search">ricerca</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/194">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/456">
+	<q>Il modo piú facile per farti una ragazza, o per disfartene, è di scrivere una canzone su di lei.</q>
+	<cite><a href="/t/456">David Crosby</a></cite>
+</blockquote>
 
 
 </footer>

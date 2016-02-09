@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/102">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/544">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/866">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/631">
+	<q>Time is the musician&#39;s canvas.</q>
+	<cite><a href="/t/631">unknown</a></cite>
+</blockquote>
 
 
 </footer>

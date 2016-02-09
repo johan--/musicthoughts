@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuovo</a></li>
-	<li><a href="/author">autori</a></li>
-	<li><a href="/contributor">contributori</a></li>
-	<li><a href="/t/1705">pensiero a caso</a></li>
+	<li><a href="/authors">autori</a></li>
+	<li><a href="/contributors">contributori</a></li>
+	<li><a href="/t/181">pensiero a caso</a></li>
 	<li><a href="/search">ricerca</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/51">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/2291">
+	<q>Se la musica potesse essere tradotta in un linguaggio umano non avrebbe più senso di esistere.</q>
+	<cite><a href="/t/2291">Ned Moram</a></cite>
+</blockquote>
 
 
 </footer>

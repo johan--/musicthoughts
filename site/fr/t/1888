@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/304">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/507">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/1888">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/233">
+	<q>Si ça ne déchire pas, c&#39;est que ta plume est trop molle.</q>
+	<cite><a href="/t/233">Kevin Welch</a></cite>
+</blockquote>
 
 
 </footer>

@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/2359">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/451">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/93">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/2428">
+	<q>艺术永远都不要试图流行化。大众应该尝试让自己变得艺术化。</q>
+	<cite><a href="/t/2428">Oscar Wilde</a></cite>
+</blockquote>
 
 
 </footer>

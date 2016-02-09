@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/2392">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/2307">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/374">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/67">
+	<q>J&#39;adore la guitare basse car elle a si peu à faire, mais elle est pourtant si importante.</q>
+	<cite><a href="/t/67">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

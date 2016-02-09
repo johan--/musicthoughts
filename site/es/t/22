@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuevo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/1705">pensamiento al azar</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/2436">pensamiento al azar</a></li>
 	<li><a href="/search">buscar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/22">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/177">
+	<q>No pienso en cuál es el sentido de todo.<br><br>Digo, solo enchufa tu maldita guitarra y haz algo de ruido.</q>
+	<cite><a href="/t/177">Paul Westerberg</a></cite>
+</blockquote>
 
 
 </footer>

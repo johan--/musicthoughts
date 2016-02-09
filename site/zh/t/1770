@@ -27,8 +27,8 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
 	<li><a href="/t/139">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/1770">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/647">
+	<q>我們當時沒有什麼儀器，所以我迫不得已地只好用我的吉他。</q>
+	<cite><a href="/t/647">Maybelle Carter</a></cite>
+</blockquote>
 
 
 </footer>

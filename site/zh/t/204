@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/1989">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/2429">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/204">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/94">
+	<q>最近在一次採訪會當中某人向我說，“這些字的意思是什麼呢?”。我跟著便說，“這些音弦的意思又是什麼呢?”。</q>
+	<cite><a href="/t/94">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

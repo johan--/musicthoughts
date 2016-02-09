@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/204">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/2418">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2271">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/404">
+	<q>S&#39;il y a plus de trois accords, c&#39;est de l&#39;exhibitionnisme.</q>
+	<cite><a href="/t/404">Woody Guthrie</a></cite>
+</blockquote>
 
 
 </footer>

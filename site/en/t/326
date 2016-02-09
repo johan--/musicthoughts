@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/173">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/75">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/326">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/360">
+	<q>It&#39;s not about the messenger. It&#39;s about the message.</q>
+	<cite><a href="/t/360">Dalai Lama</a></cite>
+</blockquote>
 
 
 </footer>

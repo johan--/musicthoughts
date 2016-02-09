@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/404">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/214">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2568">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/1858">
+	<q>Nothing in music is hard, just unfamiliar.</q>
+	<cite><a href="/t/1858">Kenny Werner</a></cite>
+</blockquote>
 
 
 </footer>

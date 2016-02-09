@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuevo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/12">pensamiento al azar</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/418">pensamiento al azar</a></li>
 	<li><a href="/search">buscar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/174">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/213">
+	<q>Los de A&amp;R son unos despistados. Si hubieran sabido lo que estaba por venir, hoy todos serían multimillonarios, ¿o no?</q>
+	<cite><a href="/t/213">Mickie Most</a></cite>
+</blockquote>
 
 
 </footer>

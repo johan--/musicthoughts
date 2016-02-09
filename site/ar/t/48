@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">جديد</a></li>
-	<li><a href="/author">القائلون</a></li>
-	<li><a href="/contributor">المساهمون</a></li>
-	<li><a href="/t/546">فكرة عشوائية</a></li>
+	<li><a href="/authors">القائلون</a></li>
+	<li><a href="/contributors">المساهمون</a></li>
+	<li><a href="/t/374">فكرة عشوائية</a></li>
 	<li><a href="/search">بحث</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/48">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/190">
+	<q>يمكنك أن تعرف إن كان الشخص يعزف جيداً أم لا من طريقة حمله للآلة، يمكنك أن تعرف إن كانت الآلة تعني له شيئاً.<br><br>ثم من طريقة حديثه وتصرفه. إن كان يتصرف بطريقة يريد أن يعكس بها أنه معاصر، فذلك يعني أنه لا يستطيع أن يعزف شيئاً.</q>
+	<cite><a href="/t/190">Miles Davis</a></cite>
+</blockquote>
 
 
 </footer>

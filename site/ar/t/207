@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">جديد</a></li>
-	<li><a href="/author">القائلون</a></li>
-	<li><a href="/contributor">المساهمون</a></li>
-	<li><a href="/t/1989">فكرة عشوائية</a></li>
+	<li><a href="/authors">القائلون</a></li>
+	<li><a href="/contributors">المساهمون</a></li>
+	<li><a href="/t/507">فكرة عشوائية</a></li>
 	<li><a href="/search">بحث</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/207">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/516">
+	<q>المعلومات ليست معرفة. المعرفة ليست حكمة. الحكمة ليست حقيقة. الحقيقة ليست جمال. الجمال ليس حباً. الحب ليس موسيقى. الموسيقى هي الأفضل بين كل ذلك.</q>
+	<cite><a href="/t/516">Frank Zappa</a></cite>
+</blockquote>
 
 
 </footer>

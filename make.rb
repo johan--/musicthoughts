@@ -111,14 +111,30 @@ end
 
 	# write author pages
 	ok, @authors = db.call('top_authors', nil)
-	@pagetitle = @t.authors
+	@pagetitle = @t.authors + ' ' + @t.musicthoughts
 	@rel_alternate = alternates(lang, 'authors')
 	f.call('authors', page('authors'))
 
+	@authors.each do |author|
+		ok, @author = db.call('get_author', lang, author[:id])
+		@pagetitle = @author[:name] + ' ' + @t.musicthoughts
+		uri = 'author/%d' % @author[:id]
+		@rel_alternate = alternates(lang, uri)
+		f.call(uri, page('author'))
+	end
+
 	# write contributor pages
 	ok, @contributors = db.call('top_contributors', nil)
-	@pagetitle = @t.contributors
+	@pagetitle = @t.contributors + ' ' + @t.musicthoughts
 	@rel_alternate = alternates(lang, 'contributors')
 	f.call('contributors', page('contributors'))
+
+	@contributors.each do |contributor|
+		ok, @contributor = db.call('get_contributor', lang, contributor[:id])
+		@pagetitle = @contributor[:name] + ' ' + @t.musicthoughts
+		uri = 'contributor/%d' % @contributor[:id]
+		@rel_alternate = alternates(lang, uri)
+		f.call(uri, page('contributor'))
+	end
 end
 

@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新規</a></li>
-	<li><a href="/author">発想者</a></li>
-	<li><a href="/contributor">寄稿者</a></li>
-	<li><a href="/t/359">ランダムな考想</a></li>
+	<li><a href="/authors">発想者</a></li>
+	<li><a href="/contributors">寄稿者</a></li>
+	<li><a href="/t/2291">ランダムな考想</a></li>
 	<li><a href="/search">検索</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/489">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/159">
+	<q>間違った音符を弾いてしまったときは、その後に弾く音[を変えること]によって正しかったことにしてしまえばいい。</q>
+	<cite><a href="/t/159">Joe Pass</a></cite>
+</blockquote>
 
 
 </footer>

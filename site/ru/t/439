@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">новое</a></li>
-	<li><a href="/author">авторы</a></li>
-	<li><a href="/contributor">контрибьюторы</a></li>
-	<li><a href="/t/567">случайное высказывание</a></li>
+	<li><a href="/authors">авторы</a></li>
+	<li><a href="/contributors">контрибьюторы</a></li>
+	<li><a href="/t/2295">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/439">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/2053">
+	<q>К любому месту, куда стоит идти, нет кратчайшего пути.</q>
+	<cite><a href="/t/2053">Beverly Sills</a></cite>
+</blockquote>
 
 
 </footer>

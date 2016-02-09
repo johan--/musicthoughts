@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/666">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/1896">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2016">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/159">
+	<q>Si tu joue une mauvaise note, alors corrige-le avec ce que tu joues par la suite.</q>
+	<cite><a href="/t/159">Joe Pass</a></cite>
+</blockquote>
 
 
 </footer>

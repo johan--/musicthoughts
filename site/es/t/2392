@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuevo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/513">pensamiento al azar</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/456">pensamiento al azar</a></li>
 	<li><a href="/search">buscar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2392">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/638">
+	<q>Ningún artista está satisfecho. No hay satisfacción en ningún momento. Sólo existe una extraña, divina insatisfacción, un bendito malestar que nos mantiene y nos hace más vivos que los demás.</q>
+	<cite><a href="/t/638">Martha Graham</a></cite>
+</blockquote>
 
 
 </footer>

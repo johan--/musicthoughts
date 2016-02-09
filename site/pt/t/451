@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">novo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/231">pensamento ao acaso</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/607">pensamento ao acaso</a></li>
 	<li><a href="/search">Procurar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/451">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/399">
+	<q>O público é como uma mulher. Se não és sincero, acabou-se.</q>
+	<cite><a href="/t/399">Frank Sinatra</a></cite>
+</blockquote>
 
 
 </footer>

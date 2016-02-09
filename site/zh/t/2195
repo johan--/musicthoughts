@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/2441">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/2271">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/2195">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/95">
+	<q>你真正想要(該)做的就是寫一些超出你自己懂的空間之外的歌詞。<br><br>它們的感覺就是這才是你真正想要唱的。但是你不明白為什麼。</q>
+	<cite><a href="/t/95">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

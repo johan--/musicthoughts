@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">جديد</a></li>
-	<li><a href="/author">القائلون</a></li>
-	<li><a href="/contributor">المساهمون</a></li>
-	<li><a href="/t/262">فكرة عشوائية</a></li>
+	<li><a href="/authors">القائلون</a></li>
+	<li><a href="/contributors">المساهمون</a></li>
+	<li><a href="/t/2236">فكرة عشوائية</a></li>
 	<li><a href="/search">بحث</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/438">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/2393">
+	<q>لا تدع ما لا تستطيع فعله يؤثر على ما تستطيعه.</q>
+	<cite><a href="/t/2393">John Wooden</a></cite>
+</blockquote>
 
 
 </footer>

@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/498">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/118">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/445">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/2008">
+	<q>你不只是想被认为是强中之强。你还想被认为是那种独领一技的人。</q>
+	<cite><a href="/t/2008">Jerry Garcia</a></cite>
+</blockquote>
 
 
 </footer>

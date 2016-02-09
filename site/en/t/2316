@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
-	<li><a href="/t/516">random thought</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
+	<li><a href="/t/84">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/2316">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/46">
+	<q>I like talking about ideas. I find them terribly interesting.</q>
+	<cite><a href="/t/46">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

@@ -29,9 +29,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/325">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/2359">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -61,6 +61,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/191">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/4">
+	<q>與其強迫樂音要當人造的什麼論理或感情的抒發媒介，不如就乾脆直截了當讓樂音當他自己。</q>
+	<cite><a href="/t/4">John Cage</a></cite>
+</blockquote>
 
 
 </footer>

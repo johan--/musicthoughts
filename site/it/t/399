@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuovo</a></li>
-	<li><a href="/author">autori</a></li>
-	<li><a href="/contributor">contributori</a></li>
-	<li><a href="/t/121">pensiero a caso</a></li>
+	<li><a href="/authors">autori</a></li>
+	<li><a href="/contributors">contributori</a></li>
+	<li><a href="/t/60">pensiero a caso</a></li>
 	<li><a href="/search">ricerca</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/399">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/663">
+	<q>Le persone che non fanno rumore sono pericolose.</q>
+	<cite><a href="/t/663">Jean delaFontaine</a></cite>
+</blockquote>
 
 
 </footer>

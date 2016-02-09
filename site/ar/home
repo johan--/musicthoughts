@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">جديد</a></li>
-	<li><a href="/author">القائلون</a></li>
-	<li><a href="/contributor">المساهمون</a></li>
-	<li><a href="/t/2271">فكرة عشوائية</a></li>
+	<li><a href="/authors">القائلون</a></li>
+	<li><a href="/contributors">المساهمون</a></li>
+	<li><a href="/t/404">فكرة عشوائية</a></li>
 	<li><a href="/search">بحث</a></li>
 </ul>
 </nav>
@@ -60,6 +60,11 @@
 	<li><a href="http://zh.musicthoughts.com/">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/66">
+	<q>الموسيقى ضاقت حتى أصبحت ليس ما يحلو للسمع بل ما يحلو للتسجيل.</q>
+	<cite><a href="/t/66">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

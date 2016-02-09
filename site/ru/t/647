@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">новое</a></li>
-	<li><a href="/author">авторы</a></li>
-	<li><a href="/contributor">контрибьюторы</a></li>
-	<li><a href="/t/666">случайное высказывание</a></li>
+	<li><a href="/authors">авторы</a></li>
+	<li><a href="/contributors">контрибьюторы</a></li>
+	<li><a href="/t/304">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/647">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/61">
+	<q>Рассматривать студию звукозаписи как лабораторию для абстрактных размышлений -- лучше, чем просто в качестве рабочего инструмента.</q>
+	<cite><a href="/t/61">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

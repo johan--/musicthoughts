@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nuevo</a></li>
-	<li><a href="/author">autores</a></li>
-	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t/2282">pensamiento al azar</a></li>
+	<li><a href="/authors">autores</a></li>
+	<li><a href="/contributors">colaboradores</a></li>
+	<li><a href="/t/2029">pensamiento al azar</a></li>
 	<li><a href="/search">buscar</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/3256">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/48">
+	<q>No me entusiasma llevar adelante proyectos que me resultan familiares.</q>
+	<cite><a href="/t/48">Brian Eno</a></cite>
+</blockquote>
 
 
 </footer>

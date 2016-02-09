@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">nouveau</a></li>
-	<li><a href="/author">auteurs</a></li>
-	<li><a href="/contributor">collaborateurs</a></li>
-	<li><a href="/t/286">pensée au hasard</a></li>
+	<li><a href="/authors">auteurs</a></li>
+	<li><a href="/contributors">collaborateurs</a></li>
+	<li><a href="/t/2359">pensée au hasard</a></li>
 	<li><a href="/search">chercher</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://zh.musicthoughts.com/t/432">中文</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/607">
+	<q>Une légende est un vieil homme avec une canne connu pour ce qu&#39;il a fait. Je le fais toujours.</q>
+	<cite><a href="/t/607">Miles Davis</a></cite>
+</blockquote>
 
 
 </footer>

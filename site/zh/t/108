@@ -27,9 +27,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new">新的</a></li>
-	<li><a href="/author">作者們，使創者</a></li>
-	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t/102">靈機一觸</a></li>
+	<li><a href="/authors">作者們，使創者</a></li>
+	<li><a href="/contributors">提供者</a></li>
+	<li><a href="/t/273">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -59,6 +59,11 @@
 	<li><a href="http://ja.musicthoughts.com/t/108">日本語</a></li>
 </ul>
 </nav>
+
+<blockquote cite="/t/2053">
+	<q>值得一走的地方都无捷径可达。</q>
+	<cite><a href="/t/2053">Beverly Sills</a></cite>
+</blockquote>
 
 
 </footer>
