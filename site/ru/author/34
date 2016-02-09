@@ -29,7 +29,7 @@
 	<li><a href="/new">новое</a></li>
 	<li><a href="/authors">авторы</a></li>
 	<li><a href="/contributors">контрибьюторы</a></li>
-	<li><a href="/t/313">случайное высказывание</a></li>
+	<li><a href="/t/511">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -65,9 +65,9 @@
 </ul>
 </nav>
 
-<blockquote cite="/t/513">
-	<q>Я ничего не знаю о музыке. По-моему, и не за чем.</q>
-	<cite><a href="/t/513">Elvis Presley</a></cite>
+<blockquote cite="/t/2345">
+	<q>Либо пишите произведения, достойные чтения, либо совершайте поступки, достойные описания.</q>
+	<cite><a href="/t/2345">Benjamin Franklin</a></cite>
 </blockquote>
 
 

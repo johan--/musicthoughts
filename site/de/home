@@ -29,7 +29,7 @@
 	<li><a href="/new">neu</a></li>
 	<li><a href="/authors">Autoren</a></li>
 	<li><a href="/contributors">Mitwirkende</a></li>
-	<li><a href="/t/287">Zufälliger Gedanke</a></li>
+	<li><a href="/t/384">Zufälliger Gedanke</a></li>
 	<li><a href="/search">Suche</a></li>
 </ul>
 </nav>
@@ -39,8 +39,8 @@
 
 <ul id="homenav">
 	<li><a href="/new">neu</a></li>
-	<li><a href="/author">Autoren</a></li>
-	<li><a href="/contributor">Mitwirkende</a></li>
+	<li><a href="/authors">Autoren</a></li>
+	<li><a href="/contributors">Mitwirkende</a></li>
 	<li><a href="/t">Zufälliger Gedanke</a></li>
 	<li><a href="/search">Suche</a></li>
 </ul>
@@ -61,9 +61,9 @@
 </ul>
 </nav>
 
-<blockquote cite="/t/512">
-	<q>Musik ist die Kunst des Denkens mit Klang.</q>
-	<cite><a href="/t/512">Jules Combarieu</a></cite>
+<blockquote cite="/t/619">
+	<q>Man sagt immer, dass die Zeit die Dinge verändert, aber eigentlich musst du sie selbst verändern.</q>
+	<cite><a href="/t/619">Andy Warhol</a></cite>
 </blockquote>
 
 

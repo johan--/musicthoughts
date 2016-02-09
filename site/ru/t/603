@@ -29,7 +29,7 @@
 	<li><a href="/new">новое</a></li>
 	<li><a href="/authors">авторы</a></li>
 	<li><a href="/contributors">контрибьюторы</a></li>
-	<li><a href="/t/2474">случайное высказывание</a></li>
+	<li><a href="/t/12">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -60,9 +60,9 @@
 </ul>
 </nav>
 
-<blockquote cite="/t/297">
-	<q>Воображение гораздо важнее знаний.</q>
-	<cite><a href="/t/297">Albert Einstein</a></cite>
+<blockquote cite="/t/342">
+	<q>Ты тот, кем хочешь быть.</q>
+	<cite><a href="/t/342">Kurt Vonnegut</a></cite>
 </blockquote>
 
 

@@ -29,7 +29,7 @@
 	<li><a href="/new">nuevo</a></li>
 	<li><a href="/authors">autores</a></li>
 	<li><a href="/contributors">colaboradores</a></li>
-	<li><a href="/t/2353">pensamiento al azar</a></li>
+	<li><a href="/t/42">pensamiento al azar</a></li>
 	<li><a href="/search">buscar</a></li>
 </ul>
 </nav>
@@ -60,9 +60,9 @@
 </ul>
 </nav>
 
-<blockquote cite="/t/2428">
-	<q>El arte nunca debería tratar de ser popular. Es el público el que debería tratar de hacerse artístico.</q>
-	<cite><a href="/t/2428">Oscar Wilde</a></cite>
+<blockquote cite="/t/1995">
+	<q>Un buen intérprete sube al escenario, mira a la audiencia, y piensa, &quot;¡Aquí estoy!&quot;<br><br>Un gran intérprete sube al escenario, mira a la audiencia, y piensa, &quot;¡Allí estáis!&quot;</q>
+	<cite><a href="/t/1995">Steve Rapson</a></cite>
 </blockquote>
 
 

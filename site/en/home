@@ -29,7 +29,7 @@
 	<li><a href="/new">new</a></li>
 	<li><a href="/authors">authors</a></li>
 	<li><a href="/contributors">contributors</a></li>
-	<li><a href="/t/99">random thought</a></li>
+	<li><a href="/t/2355">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
 </nav>
@@ -39,8 +39,8 @@
 
 <ul id="homenav">
 	<li><a href="/new">new</a></li>
-	<li><a href="/author">authors</a></li>
-	<li><a href="/contributor">contributors</a></li>
+	<li><a href="/authors">authors</a></li>
+	<li><a href="/contributors">contributors</a></li>
 	<li><a href="/t">random thought</a></li>
 	<li><a href="/search">search</a></li>
 </ul>
@@ -61,9 +61,9 @@
 </ul>
 </nav>
 
-<blockquote cite="/t/511">
-	<q>Most rock journalism is people who can&#39;t write, interviewing people who can&#39;t talk, for people who can&#39;t read.</q>
-	<cite><a href="/t/511">Frank Zappa</a></cite>
+<blockquote cite="/t/205">
+	<q>I&#39;ll go for things that I know are going to be wrong, with a vengeance.</q>
+	<cite><a href="/t/205">Neil Young</a></cite>
 </blockquote>
 
 

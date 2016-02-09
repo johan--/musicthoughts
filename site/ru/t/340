@@ -29,7 +29,7 @@
 	<li><a href="/new">новое</a></li>
 	<li><a href="/authors">авторы</a></li>
 	<li><a href="/contributors">контрибьюторы</a></li>
-	<li><a href="/t/256">случайное высказывание</a></li>
+	<li><a href="/t/83">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -60,9 +60,9 @@
 </ul>
 </nav>
 
-<blockquote cite="/t/2095">
-	<q>Я всегда занимаюсь тем, что не умею делать, чтобы научиться, как это делать.</q>
-	<cite><a href="/t/2095">Pablo Picasso</a></cite>
+<blockquote cite="/t/384">
+	<q>Если не спросишь, то и не узнаешь.</q>
+	<cite><a href="/t/384">2 Skinny Js</a></cite>
 </blockquote>
 
 

@@ -29,7 +29,7 @@
 	<li><a href="/new">новое</a></li>
 	<li><a href="/authors">авторы</a></li>
 	<li><a href="/contributors">контрибьюторы</a></li>
-	<li><a href="/t/60">случайное высказывание</a></li>
+	<li><a href="/t/6">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -65,9 +65,9 @@
 </ul>
 </nav>
 
-<blockquote cite="/t/140">
-	<q>Если у меня есть какая-то проблема, я снимаю про нее фильм, и это больше не проблема. Это фильм.</q>
-	<cite><a href="/t/140">Andy Warhol</a></cite>
+<blockquote cite="/t/463">
+	<q>Я не думаю, что кто-то крадет что-то; все мы берем взаймы.</q>
+	<cite><a href="/t/463">BB King</a></cite>
 </blockquote>
 
 

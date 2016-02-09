@@ -29,7 +29,7 @@
 	<li><a href="/new">новое</a></li>
 	<li><a href="/authors">авторы</a></li>
 	<li><a href="/contributors">контрибьюторы</a></li>
-	<li><a href="/t/607">случайное высказывание</a></li>
+	<li><a href="/t/6">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -65,9 +65,9 @@
 </ul>
 </nav>
 
-<blockquote cite="/t/2430">
-	<q>Вдохновение действительно существует, но оно должно посетить Вас за работой.</q>
-	<cite><a href="/t/2430">Pablo Picasso</a></cite>
+<blockquote cite="/t/205">
+	<q>Я с остервенением отметаю то, что считаю неправильным.</q>
+	<cite><a href="/t/205">Neil Young</a></cite>
 </blockquote>
 
 

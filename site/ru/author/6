@@ -29,7 +29,7 @@
 	<li><a href="/new">новое</a></li>
 	<li><a href="/authors">авторы</a></li>
 	<li><a href="/contributors">контрибьюторы</a></li>
-	<li><a href="/t/2578">случайное высказывание</a></li>
+	<li><a href="/t/12">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -93,9 +93,9 @@
 </ul>
 </nav>
 
-<blockquote cite="/t/38">
-	<q>Не использовать паузу в музыке, все равно, что не использовать черный и белый цвет в живописи.</q>
-	<cite><a href="/t/38">Brian Eno</a></cite>
+<blockquote cite="/t/404">
+	<q>Все, где больше трех аккордов,показуха.</q>
+	<cite><a href="/t/404">Woody Guthrie</a></cite>
 </blockquote>
 
 

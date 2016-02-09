@@ -29,7 +29,7 @@
 	<li><a href="/new">новое</a></li>
 	<li><a href="/authors">авторы</a></li>
 	<li><a href="/contributors">контрибьюторы</a></li>
-	<li><a href="/t/233">случайное высказывание</a></li>
+	<li><a href="/t/2321">случайное высказывание</a></li>
 	<li><a href="/search">поиск</a></li>
 </ul>
 </nav>
@@ -65,9 +65,9 @@
 </ul>
 </nav>
 
-<blockquote cite="/t/2282">
-	<q>Музыка - это любовь в поиске слова.</q>
-	<cite><a href="/t/2282">Sidney Lanier</a></cite>
+<blockquote cite="/t/42">
+	<q>Пробуй снова, терпи неудачу снова, учись терпеть неудачу.</q>
+	<cite><a href="/t/42">Samuel Becket</a></cite>
 </blockquote>
 
 

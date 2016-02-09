@@ -29,7 +29,7 @@
 	<li><a href="/new">novo</a></li>
 	<li><a href="/authors">autores</a></li>
 	<li><a href="/contributors">colaboradores</a></li>
-	<li><a href="/t/105">pensamento ao acaso</a></li>
+	<li><a href="/t/2345">pensamento ao acaso</a></li>
 	<li><a href="/search">Procurar</a></li>
 </ul>
 </nav>
@@ -65,9 +65,9 @@
 </ul>
 </nav>
 
-<blockquote cite="/t/304">
-	<q>Não é o destino que faz com que a viagem valha a pena.</q>
-	<cite><a href="/t/304">proverb</a></cite>
+<blockquote cite="/t/174">
+	<q>Vi o Bob Dylan ser criticado na Austrália por um tipo que dizia &quot;As tuas canções novas não são tão relevantes como as tuas canções antigas.&quot; E o Dylan só disse, &quot;Bem, eu estou aqui a escrever canções - e tu, o que estás a fazer?&quot;</q>
+	<cite><a href="/t/174">Bob Dylan</a></cite>
 </blockquote>
 
 
