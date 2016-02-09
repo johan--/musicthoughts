@@ -2,7 +2,7 @@
 <html lang="ja" dir="ltr">
 <head>
 <meta charset="utf-8">
-<title></title>
+<title>音楽考想</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="stylesheet" href="/css/musicthoughts-201506.css" />
 <link rel="alternate" hreflang="en" href="http://musicthoughts.com/" />
@@ -29,7 +29,7 @@
 	<li><a href="/new">新規</a></li>
 	<li><a href="/author">発想者</a></li>
 	<li><a href="/contributor">寄稿者</a></li>
-	<li><a href="/t">ランダムな考想</a></li>
+	<li><a href="/t/479">ランダムな考想</a></li>
 	<li><a href="/search">検索</a></li>
 </ul>
 </nav>
@@ -61,11 +61,7 @@
 </ul>
 </nav>
 
-<!-- TODO -->
-<blockquote cite="http://musicthoughts.com/t/id">
-	<q>thought</q>
-	<cite><a href="/t/id">author</a></cite>
-</blockquote>
+
 </footer>
 
 </div>

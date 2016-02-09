@@ -2,7 +2,7 @@
 <html lang="pt" dir="ltr">
 <head>
 <meta charset="utf-8">
-<title></title>
+<title>Pensamentos Musicais</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="stylesheet" href="/css/musicthoughts-201506.css" />
 <link rel="alternate" hreflang="en" href="http://musicthoughts.com/" />
@@ -29,7 +29,7 @@
 	<li><a href="/new">novo</a></li>
 	<li><a href="/author">autores</a></li>
 	<li><a href="/contributor">colaboradores</a></li>
-	<li><a href="/t">pensamento ao acaso</a></li>
+	<li><a href="/t/170">pensamento ao acaso</a></li>
 	<li><a href="/search">Procurar</a></li>
 </ul>
 </nav>
@@ -61,11 +61,7 @@
 </ul>
 </nav>
 
-<!-- TODO -->
-<blockquote cite="http://musicthoughts.com/t/id">
-	<q>thought</q>
-	<cite><a href="/t/id">author</a></cite>
-</blockquote>
+
 </footer>
 
 </div>

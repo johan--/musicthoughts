@@ -6,8 +6,15 @@ def template(name)
 	ERB.new(File.read("templates/#{name}.erb"), nil, '-').result
 end
 
+def thought1(thought)
+	@thought1 = thought
+	template('_thought')
+end
+
 def page(name)
 	@bodyid = name
+	@rand_id = rand_from(@random_thoughts)[:id]
+	@rand_footer = thought1(rand_from(@random_thoughts))
 	html = template('header')
 	html << template(name)
 	html << template('footer')
@@ -35,9 +42,9 @@ def translations(lang)
 end
 
 # for rel alternate header: returns hash of langcode => url
-def alternates(langhash, thislang, thispage)
+def alternates(thislang, thispage)
 	others = {}
-	(langhash.keys - [thislang]).each do |l|
+	(@languages.keys - [thislang]).each do |l|
 		subdomain = (l == 'en') ? '' : "#{l}."
 		others[l] = 'http://%smusicthoughts.com/%s' % [subdomain, thispage]
 	end
@@ -51,6 +58,11 @@ def snip_for_lang(str, language_code)
 	else
 		return (str.split(' ')[0,10].join(' ') + '…')
 	end
+end
+
+# returns just the id from one of these
+def rand_from(thoughts)
+	thoughts[rand(thoughts.size)]
 end
 
 @languages = {
@@ -69,10 +81,8 @@ end
 	# file-writing shortcut used everywhere below
 	f = file_writer('site/' + lang)
 
-	ok, approved_thoughts = db.call('approved_thoughts', lang)
-	ok, random_thoughts = db.call('random_thoughts', lang)
-
-	f.call('random.json', random_thoughts.to_json)
+	ok, @random_thoughts = db.call('random_thoughts', lang)
+	ok, @thoughts = db.call('approved_thoughts', lang)
 
 	# vars for all templates
 	@t = translations(lang)
@@ -80,11 +90,35 @@ end
 	@dir = (lang == 'ar') ? 'rtl' : 'ltr'
 
 	# write home
-	@rel_alternate = alternates(@languages, lang, '')
+	@pagetitle = @t.musicthoughts
+	@rel_alternate = alternates(lang, '')
 	f.call('home', page('home'))
 
-	# write approved thought pages
+	# write new
+	@pagetitle = @t.new + ' ' + @t.musicthoughts
+	@rel_alternate = alternates(lang, 'new')
+	f.call('new', page('new'))
+
+	# write thought pages
+	@thoughts.each do |thought|
+		ok, @thought = db.call('get_thought', lang, thought[:id])
+		@pagetitle = (@t.author_quote_quote %
+			[@thought[:author][:name], snip_for_lang(@thought[:thought], lang)])
+		uri = 't/%d' % @thought[:id]
+		@rel_alternate = alternates(lang, uri)
+		f.call(uri, page('t'))
+	end
+
 	# write author pages
+	ok, @authors = db.call('top_authors', nil)
+	@pagetitle = @t.authors
+	@rel_alternate = alternates(lang, 'authors')
+	f.call('authors', page('authors'))
+
 	# write contributor pages
+	ok, @contributors = db.call('top_contributors', nil)
+	@pagetitle = @t.contributors
+	@rel_alternate = alternates(lang, 'contributors')
+	f.call('contributors', page('contributors'))
 end
 

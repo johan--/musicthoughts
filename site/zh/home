@@ -2,7 +2,7 @@
 <html lang="zh" dir="ltr">
 <head>
 <meta charset="utf-8">
-<title></title>
+<title>音樂的思維</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="stylesheet" href="/css/musicthoughts-201506.css" />
 <link rel="alternate" hreflang="en" href="http://musicthoughts.com/" />
@@ -29,7 +29,7 @@
 	<li><a href="/new">新的</a></li>
 	<li><a href="/author">作者們，使創者</a></li>
 	<li><a href="/contributor">提供者</a></li>
-	<li><a href="/t">靈機一觸</a></li>
+	<li><a href="/t/1858">靈機一觸</a></li>
 	<li><a href="/search">搜尋</a></li>
 </ul>
 </nav>
@@ -61,11 +61,7 @@
 </ul>
 </nav>
 
-<!-- TODO -->
-<blockquote cite="http://musicthoughts.com/t/id">
-	<q>thought</q>
-	<cite><a href="/t/id">author</a></cite>
-</blockquote>
+
 </footer>
 
 </div>

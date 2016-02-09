@@ -21,9 +21,9 @@
 <nav id="nav">
 <ul>
 	<li><a href="/new"><%= @t.new %></a></li>
-	<li><a href="/author"><%= @t.authors %></a></li>
-	<li><a href="/contributor"><%= @t.contributors %></a></li>
-	<li><a href="/t"><%= @t.random_thought %></a></li>
+	<li><a href="/authors"><%= @t.authors %></a></li>
+	<li><a href="/contributors"><%= @t.contributors %></a></li>
+	<li><a href="/t/<%= @rand_id %>"><%= @t.random_thought %></a></li>
 	<li><a href="/search"><%= @t.search %></a></li>
 </ul>
 </nav>
